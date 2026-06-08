@@ -85,17 +85,4 @@
 ### 4. NVIDIA, ARM 기반 PC칩 'RTX Spark' 발표 — AI PC 시대 선언
 
 **출처:** CNBC  
-**두 줄 요약:** NVIDIA가 Computex에서 RTX Spark 슈퍼칩 공개, Dell·HP·ASUS·Lenovo·MSI 등 주요 OEM의 Windows PC에 올가을 탑재 예정. TSMC 3nm 공정 적용, SOX 지수 +4.5% / 반도체 vs 소프트웨어 격차 사상 최대 8.4%p 기록.  
-**왜 지금 Hype인지:** NVIDIA가 데이터센터에서 PC 시장까지 진출하며 Intel·AMD·Qualcomm의 안방을 직접 위협, AI PC 투자 테마가 본격화되는 신호탄.
-
----
-
-### 5. Hyperliquid(HYPE) ETF, 출시 수일 내 $1.6억 유입 — 크립토 차세대 테마
-
-**출처:** CoinDesk / CNBC  
-**두 줄 요약:** Hyperliquid 현물 ETF가 출시 수일 만에 $1.6억 유입 달성. Bitcoin ETF와 Ethereum ETF가 동반 자금 유출을 기록하는 상황에서 역행적 자금 흡수로 주목.  
-**왜 지금 Hype인지:** 기존 BTC/ETH ETF 피로감 속에서 분산형 파생상품 거래소 Hyperliquid가 차세대 크립토 투자 테마로 급부상 중.
-
----
-
-*Sources: Yahoo Finance, Benzinga, Seeking Alpha, NVIDIA Newsroom, CNBC, Bloomberg, CoinDesk, BusinessWire*
+**두 줄 요약:** NVIDIA가 Computex에서 RTX Spark 슈퍼칩 공개, Dell·HP·ASUS·Lenovo·MSI 등 주요 OEM의 Windows PC에 올가을 탑재 예정. TSMC 3nm 공정 적용, SOX 지수 +4.5% /

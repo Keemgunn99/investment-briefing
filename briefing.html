@@ -379,28 +379,4 @@
         <div class="hype-rank ${rankClass[i] || ''}">${i + 1}</div>
         <div class="hype-body">
           <div class="hype-title">${n.title}</div>
-          <div class="hype-source">${n.source}</div>
-          <div class="hype-summary">${n.summary}</div>
-          <div class="hype-comment">🔥 ${n.comment}</div>
-        </div>
-      </div>
-    `).join('');
-  }
-
-  // 초기화
-  function init() {
-    const raw = document.getElementById('briefing-data').textContent;
-    const data = JSON.parse(raw);
-
-    document.getElementById('date-badge').textContent = data.date ? fmtDate(data.date) : '브리핑 대기 중';
-    document.getElementById('update-time').textContent = data.updatedAt ? fmtTime(data.updatedAt) : '오후 6시에 자동 업데이트됩니다';
-
-    renderStock(data.iren, 'iren-content');
-    renderStock(data.infq, 'infq-content');
-    renderHype(data.hype);
-  }
-
-  init();
-</script>
-</body>
-</html>
+          <div class="hype-source">${n.source}</di
