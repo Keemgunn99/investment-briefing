@@ -222,6 +222,8 @@
 <div class="tabs">
   <div class="tab active" onclick="switchTab('iren')">IREN <span class="ticker">IREN</span></div>
   <div class="tab" onclick="switchTab('infq')">Infleqtion <span class="ticker">INFQ</span></div>
+  <div class="tab" onclick="switchTab('tsla')">Tesla <span class="ticker">TSLA</span></div>
+  <div class="tab" onclick="switchTab('coincrcl')">Crypto <span class="ticker">COIN · CRCL</span></div>
   <div class="tab" onclick="switchTab('hype')">🔥 오늘의 Hype</div>
 </div>
 
@@ -235,6 +237,19 @@
   <!-- Infleqtion Panel -->
   <div class="panel" id="panel-infq">
     <div id="infq-content"></div>
+  </div>
+
+  <!-- Tesla Panel -->
+  <div class="panel" id="panel-tsla">
+    <div id="tsla-content"></div>
+  </div>
+
+  <!-- Coin + CRCL Panel -->
+  <div class="panel" id="panel-coincrcl">
+    <div class="section-title" style="margin-bottom:12px;">Coinbase <span style="font-weight:400;color:#b0b0a8;">COIN</span></div>
+    <div id="coin-content"></div>
+    <div class="section-title" style="margin-top:28px;margin-bottom:12px;">Circle <span style="font-weight:400;color:#b0b0a8;">CRCL</span></div>
+    <div id="crcl-content"></div>
   </div>
 
   <!-- Hype Panel -->
@@ -287,6 +302,9 @@
       "insight": "글로벌 양자 생태계에서 브랜드 위상 강화 및 기관 투자자·정부 관계자 네트워킹 기회 확보. 단기 직접 영향 제한적이나 향후 파트너십·계약 파이프라인 빌딩에 긍정적."
     }
   ],
+  "tsla": [],
+  "coin": [],
+  "crcl": [],
   "hype": [
     {
       "title": "Nvidia RTX Spark — ARM 기반 AI PC칩으로 $2,000억 CPU 시장 정면 도전",
@@ -355,7 +373,7 @@
       <div class="card">
         <div class="card-header">
           <div class="card-title">${n.title}</div>
-          <div class="source-badge">${n.source}</div>
+          <div class="source-badge">${n.time ? n.time + ' · ' : ''}${n.source}</div>
         </div>
         <div class="summary">${n.summary}</div>
         <div class="insight-box">
@@ -379,28 +397,4 @@
         <div class="hype-rank ${rankClass[i] || ''}">${i + 1}</div>
         <div class="hype-body">
           <div class="hype-title">${n.title}</div>
-          <div class="hype-source">${n.source}</div>
-          <div class="hype-summary">${n.summary}</div>
-          <div class="hype-comment">🔥 ${n.comment}</div>
-        </div>
-      </div>
-    `).join('');
-  }
-
-  // 초기화
-  function init() {
-    const raw = document.getElementById('briefing-data').textContent;
-    const data = JSON.parse(raw);
-
-    document.getElementById('date-badge').textContent = data.date ? fmtDate(data.date) : '브리핑 대기 중';
-    document.getElementById('update-time').textContent = data.updatedAt ? fmtTime(data.updatedAt) : '오후 6시에 자동 업데이트됩니다';
-
-    renderStock(data.iren, 'iren-content');
-    renderStock(data.infq, 'infq-content');
-    renderHype(data.hype);
-  }
-
-  init();
-</script>
-</body>
-</html>
+          <div c
