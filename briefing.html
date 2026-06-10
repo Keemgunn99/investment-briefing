@@ -30,7 +30,7 @@
     border-radius: 8px;
     display: flex; align-items: center; justify-content: center;
   }
-  .logo svg { width: 18px; height: 18px; fill: white; }
+  .logo svg { width: 18px; height: 18px; fill: none; stroke: white; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
   .header h1 { font-size: 16px; font-weight: 600; color: #1a1a1a; letter-spacing: -0.01em; }
   .header-meta { font-size: 13px; color: #8c8c8c; }
   .date-badge {
@@ -50,6 +50,7 @@
     padding: 0 32px;
     display: flex;
     gap: 0;
+    overflow-x: auto;
   }
   .tab {
     padding: 14px 20px;
@@ -62,6 +63,8 @@
     letter-spacing: -0.01em;
     position: relative;
     top: 1px;
+    white-space: nowrap;
+    user-select: none;
   }
   .tab:hover { color: #1a1a1a; }
   .tab.active {
@@ -77,6 +80,7 @@
     border-radius: 4px;
     margin-left: 6px;
     color: #5a5a5a;
+    pointer-events: none;
   }
   .tab.active .ticker { background: #fdf0ec; color: #D97559; }
 
@@ -169,7 +173,7 @@
   .hype-rank.rank-1 { background: linear-gradient(135deg, #f5a623, #e8900f); }
   .hype-rank.rank-2 { background: linear-gradient(135deg, #9b9b9b, #7a7a7a); }
   .hype-rank.rank-3 { background: linear-gradient(135deg, #b87333, #9a6128); }
-  .hype-body { flex: 1; }
+  .hype-body { flex: 1; min-width: 0; }
   .hype-title { font-size: 15px; font-weight: 600; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.01em; margin-bottom: 6px; }
   .hype-source { font-size: 11px; color: #8c8c8c; font-weight: 500; margin-bottom: 10px; }
   .hype-summary { font-size: 13.5px; color: #3a3a3a; line-height: 1.6; margin-bottom: 10px; }
@@ -209,7 +213,7 @@
 <div class="header">
   <div class="header-left">
     <div class="logo">
-      <svg viewBox="0 0 24 24"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>
+      <svg viewBox="0 0 24 24"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
     </div>
     <div>
       <h1>투자 브리핑</h1>
@@ -219,32 +223,28 @@
   <div class="date-badge" id="date-badge">—</div>
 </div>
 
-<div class="tabs">
-  <div class="tab active" onclick="switchTab('iren')">IREN <span class="ticker">IREN</span></div>
-  <div class="tab" onclick="switchTab('infq')">Infleqtion <span class="ticker">INFQ</span></div>
-  <div class="tab" onclick="switchTab('tsla')">Tesla <span class="ticker">TSLA</span></div>
-  <div class="tab" onclick="switchTab('coincrcl')">Crypto <span class="ticker">COIN · CRCL</span></div>
-  <div class="tab" onclick="switchTab('hype')">🔥 오늘의 Hype</div>
+<div class="tabs" id="tab-bar">
+  <div class="tab active" data-tab="iren">IREN <span class="ticker">IREN</span></div>
+  <div class="tab" data-tab="infq">Infleqtion <span class="ticker">INFQ</span></div>
+  <div class="tab" data-tab="tsla">Tesla <span class="ticker">TSLA</span></div>
+  <div class="tab" data-tab="coincrcl">Crypto <span class="ticker">COIN · CRCL</span></div>
+  <div class="tab" data-tab="hype">🔥 오늘의 Hype</div>
 </div>
 
 <div class="content">
 
-  <!-- IREN Panel -->
   <div class="panel active" id="panel-iren">
     <div id="iren-content"></div>
   </div>
 
-  <!-- Infleqtion Panel -->
   <div class="panel" id="panel-infq">
     <div id="infq-content"></div>
   </div>
 
-  <!-- Tesla Panel -->
   <div class="panel" id="panel-tsla">
     <div id="tsla-content"></div>
   </div>
 
-  <!-- Coin + CRCL Panel -->
   <div class="panel" id="panel-coincrcl">
     <div class="section-title" style="margin-bottom:12px;">Coinbase <span style="font-weight:400;color:#b0b0a8;">COIN</span></div>
     <div id="coin-content"></div>
@@ -252,7 +252,6 @@
     <div id="crcl-content"></div>
   </div>
 
-  <!-- Hype Panel -->
   <div class="panel" id="panel-hype">
     <div id="hype-content"></div>
   </div>
@@ -388,60 +387,93 @@
 </script>
 
 <script>
-  // 탭 전환
-  function switchTab(id) {
-    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
-    document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
-    event.currentTarget.classList.add('active');
+  // 탭 전환 — data-tab 속성 방식으로 변경 (Firefox 호환)
+  document.getElementById('tab-bar').addEventListener('click', function(e) {
+    var tab = e.target.closest('[data-tab]');
+    if (!tab) return;
+    var id = tab.dataset.tab;
+    document.querySelectorAll('.tab').forEach(function(t) { t.classList.remove('active'); });
+    document.querySelectorAll('.panel').forEach(function(p) { p.classList.remove('active'); });
+    tab.classList.add('active');
     document.getElementById('panel-' + id).classList.add('active');
-  }
+  });
 
   // 날짜 포맷
   function fmtDate(str) {
     if (!str) return '—';
-    const d = new Date(str);
+    var d = new Date(str);
     return d.toLocaleDateString('ko-KR', { year: 'numeric', month: 'long', day: 'numeric', weekday: 'short' });
   }
 
   function fmtTime(str) {
     if (!str) return '';
-    const d = new Date(str);
+    var d = new Date(str);
     return d.toLocaleTimeString('ko-KR', { hour: '2-digit', minute: '2-digit' }) + ' 업데이트';
   }
 
   // 종목 뉴스 렌더링
   function renderStock(news, containerId) {
-    const el = document.getElementById(containerId);
+    var el = document.getElementById(containerId);
     if (!news || news.length === 0) {
-      el.innerHTML = `<div class="no-news">오늘 주요 뉴스 없음</div>`;
+      el.innerHTML = '<div class="no-news">오늘 주요 뉴스 없음</div>';
       return;
     }
-    el.innerHTML = news.map(n => `
-      <div class="card">
-        <div class="card-header">
-          <div class="card-title">${n.title}</div>
-          <div class="source-badge">${n.time ? n.time + ' · ' : ''}${n.source}</div>
-        </div>
-        <div class="summary">${n.summary}</div>
-        <div class="insight-box">
-          <div class="insight-label">💡 투자 시사점</div>
-          ${n.insight}
-        </div>
-      </div>
-    `).join('');
+    el.innerHTML = news.map(function(n) {
+      return '<div class="card">' +
+        '<div class="card-header">' +
+          '<div class="card-title">' + n.title + '</div>' +
+          '<div class="source-badge">' + (n.time ? n.time + ' · ' : '') + n.source + '</div>' +
+        '</div>' +
+        '<div class="summary">' + n.summary + '</div>' +
+        '<div class="insight-box">' +
+          '<div class="insight-label">💡 투자 시사점</div>' +
+          n.insight +
+        '</div>' +
+      '</div>';
+    }).join('');
   }
 
   // Hype 뉴스 렌더링
   function renderHype(news) {
-    const el = document.getElementById('hype-content');
+    var el = document.getElementById('hype-content');
     if (!news || news.length === 0) {
-      el.innerHTML = `<div class="no-news">오늘 주요 뉴스 없음</div>`;
+      el.innerHTML = '<div class="no-news">오늘 주요 뉴스 없음</div>';
       return;
     }
-    const rankClass = ['rank-1','rank-2','rank-3','',''];
-    el.innerHTML = news.map((n, i) => `
-      <div class="hype-card">
-        <div class="hype-rank ${rankClass[i] || ''}">${i + 1}</div>
-        <div class="hype-body">
-          <div class="hype-title">${n.title}</div>
-          <div c
+    var rankClass = ['rank-1', 'rank-2', 'rank-3', '', ''];
+    el.innerHTML = news.map(function(n, i) {
+      return '<div class="hype-card">' +
+        '<div class="hype-rank ' + (rankClass[i] || '') + '">' + (i + 1) + '</div>' +
+        '<div class="hype-body">' +
+          '<div class="hype-title">' + n.title + '</div>' +
+          '<div class="hype-source">' + (n.time ? n.time + ' · ' : '') + n.source + '</div>' +
+          '<div class="hype-summary">' + n.summary + '</div>' +
+          '<div class="hype-comment">💬 ' + n.comment + '</div>' +
+        '</div>' +
+      '</div>';
+    }).join('');
+  }
+
+  // 초기화
+  window.addEventListener('DOMContentLoaded', function() {
+    try {
+      var raw = document.getElementById('briefing-data').textContent;
+      var d = JSON.parse(raw);
+
+      document.getElementById('date-badge').textContent = fmtDate(d.date);
+      document.getElementById('update-time').textContent = fmtTime(d.updatedAt);
+
+      renderStock(d.iren, 'iren-content');
+      renderStock(d.infq, 'infq-content');
+      renderStock(d.tsla, 'tsla-content');
+      renderStock(d.coin, 'coin-content');
+      renderStock(d.crcl, 'crcl-content');
+      renderHype(d.hype);
+    } catch(err) {
+      console.error('브리핑 데이터 파싱 오류:', err);
+    }
+  });
+</script>
+
+</body>
+</html>
