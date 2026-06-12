@@ -23,8 +23,8 @@
 #### 1. Infleqtion Puts Quantum Hardware To Work With Government And CHIPS Tie-In
 - **출처**: Yahoo Finance
 - **발행 시각**: 12:11 KST
-- **한 줄 요약**: Infleqtion이 영국 국립양자컴퓨팅센터(NQCC)에 100큐비트급 양자 컴퓨터를 납품—영국 최초의 운영용 양자 시스템으로 정부 계약 실적을 공식화.
-- **투자 시사점**: 정부 계약 실적의 공식화는 매출 가시성 개선 및 추가 정부·CHIPS법 관련 수주 가능성을 높여줌. 양자 하드웨어 상용화 선도 기업으로서의 포지셔닝 강화.
+- **한 줄 요약**: Simply Wall St. 분석 기사로, Infleqtion의 최근 성과(영국 NQCC 100큐비트 납품 완료, Royal Navy 해상 시험, 미 상무부 CHIPS법 의향서 체결)를 종합 정리한 내용—오늘 발생한 이벤트가 아닌 누적 성과 요약.
+- **투자 시사점**: 납품·해상 시험·CHIPS법 연계 등 복수의 정부 실적이 공식 확인됨. 단, 각 이벤트의 정확한 발생 시점은 기사에 명시되지 않아 추가 확인 필요.
 - **감성**: 🟢 positive
 - **링크**: https://finance.yahoo.com/markets/stocks/articles/infleqtion-puts-quantum-hardware-government-031129012.html?.tsrc=rss
 
@@ -115,5 +115,4 @@
 - **발행 시각**: 10:04 KST
 - **두 줄 요약**: 제프 베이조스가 공동 창업한 물리 AI 스타트업 Prometheus가 120억 달러 신규 투자를 유치하며 기업 가치 410억 달러를 달성. 중공업 엔지니어링 및 신약 설계 자동화를 목표로 하는 '인공 범용 엔지니어' 개발 중.
 - **왜 지금 hype인가**: 베이조스의 새 벤처가 AI 물리세계 적용 테마를 점화시키며, 로봇·엔지니어링 AI 분야의 차기 대형 투자 물결을 예고.
-- **감성**: 🟢 positive
-- **링크**: https://techcrunch.com/2026/06/11/j
+- **감성**: 🟢 posi
