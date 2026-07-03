@@ -274,6 +274,7 @@
   <div class="tab active" data-tab="hype">🔥 오늘의 Hype</div>
   <div class="tab" data-tab="iren">IREN <span class="ticker">IREN</span></div>
   <div class="tab" data-tab="infq">Infleqtion <span class="ticker">INFQ</span></div>
+  <div class="tab" data-tab="ddog">Datadog <span class="ticker">DDOG</span></div>
   <div class="tab" data-tab="tsla">Tesla <span class="ticker">TSLA</span></div>
   <div class="tab" data-tab="coincrcl">Crypto <span class="ticker">COIN · CRCL</span></div>
 </div>
@@ -296,6 +297,10 @@
 
   <div class="panel" id="panel-infq">
     <div id="infq-content"></div>
+  </div>
+
+  <div class="panel" id="panel-ddog">
+    <div id="ddog-content"></div>
   </div>
 
   <div class="panel" id="panel-tsla">
@@ -581,6 +586,7 @@
 
       renderStock(d.iren, 'iren-content');
       renderStock(d.infq, 'infq-content');
+      renderStock(d.ddog, 'ddog-content');
       renderStock(d.tsla, 'tsla-content');
       renderStock(d.coin, 'coin-content');
       renderStock(d.crcl, 'crcl-content');
