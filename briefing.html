@@ -275,7 +275,6 @@
   <div class="tab" data-tab="iren">IREN <span class="ticker">IREN</span></div>
   <div class="tab" data-tab="infq">Infleqtion <span class="ticker">INFQ</span></div>
   <div class="tab" data-tab="tsla">Tesla <span class="ticker">TSLA</span></div>
-  <div class="tab" data-tab="ddog">Datadog <span class="ticker">DDOG</span></div>
   <div class="tab" data-tab="coincrcl">Crypto <span class="ticker">COIN · CRCL</span></div>
 </div>
 
@@ -301,10 +300,6 @@
 
   <div class="panel" id="panel-tsla">
     <div id="tsla-content"></div>
-  </div>
-
-  <div class="panel" id="panel-ddog">
-    <div id="ddog-content"></div>
   </div>
 
   <div class="panel" id="panel-coincrcl">
@@ -521,4 +516,80 @@
 
   // 감성 아이콘
   function sentimentIcon(s) {
-    if (s === 'positive') return '<span class="sentiment" title="긍정">🟢</
+    if (s === 'positive') return '<span class="sentiment" title="긍정">🟢</span>';
+    if (s === 'negative') return '<span class="sentiment" title="부정">🔴</span>';
+    return '<span class="sentiment" title="중립">⚪</span>';
+  }
+
+  // 제목 (링크 있으면 a 태그, 없으면 span)
+  function titleHtml(text, link) {
+    if (link) return '<a href="' + link + '" target="_blank" rel="noopener">' + text + '</a>';
+    return '<span>' + text + '</span>';
+  }
+
+  // 종목 뉴스 렌더링
+  function renderStock(news, containerId) {
+    var el = document.getElementById(containerId);
+    if (!news || news.length === 0) {
+      el.innerHTML = '<div class="no-news">오늘 주요 뉴스 없음</div>';
+      return;
+    }
+    el.innerHTML = news.map(function(n) {
+      return '<div class="card">' +
+        '<div class="card-header">' +
+          '<div class="card-title">' + sentimentIcon(n.sentiment) + titleHtml(n.title, n.link) + '</div>' +
+          '<div class="source-badge">' + (n.time ? n.time + ' · ' : '') + n.source + '</div>' +
+        '</div>' +
+        '<div class="summary">' + n.summary + '</div>' +
+        '<div class="insight-box">' +
+          '<div class="insight-label">💡 투자 시사점</div>' +
+          n.insight +
+        '</div>' +
+      '</div>';
+    }).join('');
+  }
+
+  // Hype 뉴스 렌더링
+  function renderHype(news) {
+    var el = document.getElementById('hype-content');
+    if (!news || news.length === 0) {
+      el.innerHTML = '<div class="no-news">오늘 주요 뉴스 없음</div>';
+      return;
+    }
+    var rankClass = ['rank-1', 'rank-2', 'rank-3', '', ''];
+    el.innerHTML = news.map(function(n, i) {
+      return '<div class="hype-card">' +
+        '<div class="hype-rank ' + (rankClass[i] || '') + '">' + (i + 1) + '</div>' +
+        '<div class="hype-body">' +
+          '<div class="hype-title">' + sentimentIcon(n.sentiment) + titleHtml(n.title, n.link) + '</div>' +
+          '<div class="hype-source">' + (n.time ? n.time + ' · ' : '') + n.source + '</div>' +
+          '<div class="hype-summary">' + n.summary + '</div>' +
+          '<div class="hype-comment">💬 ' + n.comment + '</div>' +
+        '</div>' +
+      '</div>';
+    }).join('');
+  }
+
+  // 초기화
+  window.addEventListener('DOMContentLoaded', function() {
+    try {
+      var raw = document.getElementById('briefing-data').textContent;
+      var d = JSON.parse(raw);
+
+      document.getElementById('date-badge').textContent = fmtDate(d.date);
+      document.getElementById('update-time').textContent = fmtTime(d.updatedAt);
+
+      renderStock(d.iren, 'iren-content');
+      renderStock(d.infq, 'infq-content');
+      renderStock(d.tsla, 'tsla-content');
+      renderStock(d.coin, 'coin-content');
+      renderStock(d.crcl, 'crcl-content');
+      renderHype(d.hype);
+    } catch(err) {
+      console.error('브리핑 데이터 파싱 오류:', err);
+    }
+  });
+</script>
+
+</body>
+</html>
