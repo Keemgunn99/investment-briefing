@@ -23,21 +23,11 @@
 
 ---
 
-### DDOG (Datadog)
+### CCXI (Agility Robotics — SPAC: Churchill Capital Corp XI)
 
-**1. Datadog CEO, 1,150만 달러 규모 자사주 매도**
-- 출처: The Motley Fool / 09:13 KST
-- 요약: AI 옵저버빌리티·보안 플랫폼 기업 Datadog의 CEO가 1,150만 달러 규모 자사주를 매도한 내부자 거래가 공시됨.
-- 투자 시사점: 사전 계획(10b5-1) 매도 여부와 규모에 따라 단기 심리 부담. 펀더멘털 훼손 신호는 아니나 내부자 매도 누적은 체크 포인트.
-- 감성: negative
-- 링크: https://www.fool.com/coverage/filings/2026/07/28/what-does-the-datadog-ceo-s-sale-of-company-shares-worth-usd11-5-million-mean-for-investors/
+> Agility Robotics는 SPAC(Churchill Capital Corp XI, 티커 CCXI)를 통해 상장 진행 중. 합병 완료 시 티커가 AGLT로 전환될 예정.
 
-**2. Datadog 이사 Amit Agarwal, 2만 주 520만 달러 매도**
-- 출처: The Motley Fool / 00:20 KST
-- 요약: Datadog 이사가 스톡옵션 행사 후 3월 설정된 10b5-1 플랜에 따라 2만 주(520만 달러)를 매도, 지분 35% 축소.
-- 투자 시사점: 사전 계획 매도로 정기적 성격이나, 경영진 매도 연속 공시는 단기 수급에 부담. 8월 실적 전 관망 심리 강화.
-- 감성: negative
-- 링크: https://www.fool.com/coverage/filings/2026/07/28/datadog-director-amit-agarwal-sells-20-000-shares-for-usd5-2-million/
+오늘 주요 뉴스 없음
 
 ---
 
