@@ -25,9 +25,21 @@
 
 ### CCXI (Agility Robotics — SPAC: Churchill Capital Corp XI)
 
-> Agility Robotics는 SPAC(Churchill Capital Corp XI, 티커 CCXI)를 통해 상장 진행 중. 합병 완료 시 티커가 AGLT로 전환될 예정.
+> Agility Robotics는 SPAC(Churchill Capital Corp XI, 티커 CCXI)를 통해 상장 진행 중. 합병 완료 시 티커가 AGLT로 전환될 예정. (수집: CCXI 티커 + "Agility Robotics" 키워드 검색)
 
-오늘 주요 뉴스 없음
+**1. Agility Robotics, CFO 영입하며 상장 준비 본격화**
+- 출처: WWD / 07:04 KST
+- 요약: Agility Robotics가 공개 상장을 앞두고 신임 CFO를 영입하며 상장 기업으로서의 재무 체계를 정비.
+- 투자 시사점: 재무 리더십 보강은 SPAC 합병·상장 준비 진전 신호. 거버넌스 강화로 긍정적.
+- 감성: positive
+- 링크: https://news.google.com/rss/articles/CBMiugFBVV95cUxQRmNpTVk3WnlqdEFoNVNMN3c2cHBLYWRKWGhVOWtxZnVJdkRJY1JBWkQwVm5XSDJuTDludm1faHlxLTkxRDVDWEJhV1pmeENRM3RZVXJnTXlMZnZ0eWR0cDc0dTdzdzBQekNNeF9CU1J2TWJMaTFrRmcwdS1IVlh6ckV5UXFHT2FtaXdqMUVhUW9pdjlULU94WktYWGJBSGVGaVk4YVQ0ZTlRLUgybWhuQ2piWXhXM1hoUHc?oc=5
+
+**2. "CCXI가 Agility Robotics에 직접 노출을 주는 이유"**
+- 출처: Milk Road / 08:34 KST
+- 요약: 비상장인 Agility Robotics에 대한 유일한 상장 접근 경로가 SPAC CCXI임을 설명하는 기사.
+- 투자 시사점: SPAC 특성상 합병 기대가 주가에 선반영됨. 합병 완료 전 희석·변동성 리스크 유의.
+- 감성: neutral
+- 링크: https://news.google.com/rss/articles/CBMihAFBVV95cUxNeW5xZTNhTWZkamRFX0thcnB3N05uaktCcTZqRWlNdTlYckhQWnZtaC1wMDAzdVhQRUYteFB2Z3V1bDN4S1lIZTd5YW1CMGl4VmM1YUxZMnZjZWU4RjBpU0VtMmMwc3paR0JsZWhaNm5MenhBdWk5aFBKRkVVMkdVUmJtV0k?oc=5
 
 ---
 
