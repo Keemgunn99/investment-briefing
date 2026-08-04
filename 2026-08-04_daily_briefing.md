@@ -1,141 +1,170 @@
-# 📊 투자 뉴스 데일리 브리핑 — 2026-08-04
+# 📊 투자 뉴스 데일리 브리핑 — 2026-08-04 (화)
 
-_업데이트: 2026-08-04T18:00:00+09:00 (KST 기준 당일 발행 기사만)_
+> 수집 기준: RSS 피드 기준 **오늘(KST) 발행 기사만**. 발행 시각은 KST.
+> 업데이트: 2026-08-04 18:00 KST
 
 ---
 
 ## 섹션 1. 보유 종목 뉴스
 
-### IREN (iRen Ltd)
+### 🟢 IREN (iRen Ltd)
 
 오늘 주요 뉴스 없음
 
-### INFQ (Infleqtion)
+---
+
+### 🔵 INFQ (Infleqtion)
 
 오늘 주요 뉴스 없음
 
-### CCXI (Agility Robotics)
+---
+
+### 🟣 CCXI (Agility Robotics / Churchill Capital Corp XI)
 
 오늘 주요 뉴스 없음
 
-### TSLA (Tesla)
+---
 
-**Tesla stock surges as super bull turns slightly more bearish**
-- 출처: TheStreet / 발행: 08:37 KST
-- 요약: 실적 발표 후 랠리가 이어지며 테슬라 주가가 반등, Stifel은 목표주가를 소폭 하향했으나 여전히 매수 의견 유지.
-- 투자 시사점: 단기 주가 모멘텀은 강함. 애널리스트 목표 하향에도 투자심리는 개선되는 흐름.
-- 감성: 긍정 (positive)
-- 링크: https://www.thestreet.com/automotive/tesla-stock-surges-stifel-lowers-target-more-bearish?.tsrc=rss
+### 🔴 TSLA (Tesla)
 
-**Tesla Stock Goes for 3 Gains in a Row as It Shrugs Off Safety Inquiry**
-- 출처: Barron's / 발행: 05:18 KST
-- 요약: 2분기 실적 부진 이후 조정을 딛고 3거래일 연속 상승, 안전조사 이슈를 소화하며 회복세.
-- 투자 시사점: 실적 쇼크 후 저점 매수세 유입. 규제 리스크보다 미래 서사에 무게.
-- 감성: 긍정 (positive)
-- 링크: https://finance.yahoo.com/m/ca233add-02ca-3335-a20a-a64aea870afd/tesla-stock-goes-for-3-gains.html?.tsrc=rss
+**1. Tesla stock surges as super bull turns slightly more bearish**
+- 출처: TheStreet | 발행: 08:37 KST
+- 요약: 실적 발표 후 랠리가 이어지며 3거래일 연속 상승했으나, 강세론자 Stifel은 목표주가를 소폭 하향.
+- 투자 시사점: 주가는 반등 중이나 애널리스트 눈높이는 낮아지는 국면 — 실적 대비 밸류에이션 부담 상존.
+- 감성: neutral
+- 링크: https://www.thestreet.com/automotive/tesla-stock-surges-stifel-lowers-target-more-bearish
 
-**Tesla Stock Rises Despite 1.2 Million-Vehicle Safety Probe**
-- 출처: Investopedia / 발행: 05:36 KST
-- 요약: NHTSA가 Model 3·Y 서스펜션 결함 관련 120만 대 조사에 착수했으나 주가는 상승 지속.
-- 투자 시사점: 대규모 안전조사는 잠재적 리콜 비용 리스크. 다만 현재 시장 반응은 제한적.
-- 감성: 중립 (neutral)
-- 링크: https://finance.yahoo.com/markets/stocks/articles/tesla-stock-rises-despite-1-203652674.html?.tsrc=rss
+**2. Tesla Stock Rises Despite 1.2 Million-Vehicle Safety Probe**
+- 출처: Yahoo Finance (Barron's) | 발행: 05:36 KST
+- 요약: Model 3·Y 서스펜션 결함 관련 120만 대 연방 조사에도 불구하고 주가는 상승 지속.
+- 투자 시사점: 리콜·조사 리스크는 존재하나 시장은 이를 소화하는 분위기 — 단기 조사 결과 주시.
+- 감성: neutral
+- 링크: https://finance.yahoo.com/markets/stocks/articles/tesla-stock-rises-despite-1-203652674.html
 
-**Tesla's Big Robotaxi Progress Is Hidden in Plain Sight**
-- 출처: The Motley Fool / 발행: 04:25 KST
-- 요약: 로보택시 롤아웃 기대치 리셋이 오히려 중기적으로 주가에 긍정적일 수 있다는 분석.
-- 투자 시사점: 자율주행 서사가 밸류에이션의 핵심 축. 기대치 조정 국면은 진입 관점에서 참고.
-- 감성: 중립 (neutral)
-- 링크: https://www.fool.com/investing/2026/08/03/teslas-big-robotaxi-progress-is-hidden-in-plain-si/?.tsrc=rss
+**3. Tesla's Big Robotaxi Progress Is Hidden in Plain Sight**
+- 출처: The Motley Fool | 발행: 04:25 KST
+- 요약: 로보택시 롤아웃 기대치 리셋이 중기적으로 주가에 긍정적일 수 있다는 분석.
+- 투자 시사점: 자율주행·로보택시가 여전히 핵심 성장 서사 — 기대치 조정이 오히려 하방 부담을 덜어줄 수 있음.
+- 감성: positive
+- 링크: https://www.fool.com/investing/2026/08/03/teslas-big-robotaxi-progress-is-hidden-in-plain-si/
 
-### COIN (Coinbase)
+**4. Veteran Analyst Flags Tesla Stock's Next Critical Test**
+- 출처: Yahoo Finance (TheStreet) | 발행: 02:51 KST
+- 요약: 테슬라의 성장 약속이 이제 재무적 증명을 요구받는 국면이라는 진단.
+- 투자 시사점: 스토리에서 실적으로의 전환 압박 — 다음 분기 실적·현금흐름이 방향성 결정 변수.
+- 감성: neutral
+- 링크: https://finance.yahoo.com/markets/stocks/articles/veteran-analyst-flags-tesla-stocks-175147410.html
 
-**Coinbase (COIN) Q2 2026 Earnings Call Transcript**
-- 출처: The Motley Fool / 발행: 09:15 KST
-- 요약: 2분기 실적 컨퍼런스콜 공개. Base 네트워크 누적 거래량 32조 달러 돌파, 구독형 매출 비중 확대.
-- 투자 시사점: 거래 수수료 의존도를 낮추는 구독·L2 매출 성장은 구조적 긍정 요인.
-- 감성: 중립 (neutral)
-- 링크: https://www.fool.com/earnings/call-transcripts/2026/08/03/coinbase-coin-q2-2026-earnings-call-transcript/?.tsrc=rss
+**5. Elon Musk's Net Worth Down Nearly $700 Billion Amid Tesla, SpaceX Merger Rumors**
+- 출처: Yahoo Finance | 발행: 12:30 KST
+- 요약: 테슬라·스페이스X 주가 후퇴와 합병 추측 속 머스크 순자산 급감.
+- 투자 시사점: 합병설은 미확인 노이즈 — 펀더멘털보다 심리 변동성 요인으로 해석.
+- 감성: neutral
+- 링크: https://finance.yahoo.com/markets/stocks/articles/elon-musks-net-worth-down-033017945.html
 
-**Coinbase-Circle Partnership to Renew on Same Terms, CFO Alesia Haas Says**
-- 출처: CoinGape / 발행: 02:39 KST
-- 요약: 코인베이스 CFO가 Circle과의 상업적 파트너십이 동일 조건으로 자동 갱신된다고 확인.
-- 투자 시사점: USDC 수익 배분 구조 유지로 스테이블코인 매출 안정성 확보. 우호적.
-- 감성: 긍정 (positive)
-- 링크: https://coingape.com/block-of-fame/pulse/coinbase-circle-partnership-to-renew-on-same-terms-cfo-alesia-haas-says/?.tsrc=rss
+---
 
-**Coinbase missed again, Strategy sells Bitcoin, and is PayPal for sale?**
-- 출처: CoinDesk / 발행: 02:53 KST
-- 요약: 코인베이스가 컨센서스를 재차 하회했다는 시장 평가와 함께 크립토 업계 이슈 정리.
-- 투자 시사점: 실적 미스는 단기 부담 요인. 다만 사업 다각화 진전과 함께 평가 필요.
-- 감성: 부정 (negative)
-- 링크: http://videos.coindesk.com/previews/SEZhxC2G?.tsrc=rss
+### 🟠 COIN (Coinbase)
 
-**Analyst Turns More Conservative on Crypto Valuations, But Says Buy the Dip in COIN, MSTR, HOOD**
-- 출처: Stocktwits / 발행: 00:42 KST
-- 요약: Cantor Fitzgerald이 밸류에이션 가정 조정으로 목표가는 낮췄으나 COIN 등 저점 매수 의견 유지.
-- 투자 시사점: 목표가 하향은 실적 전망 악화가 아닌 밸류 재조정. 매수 관점은 유효.
-- 감성: 중립 (neutral)
-- 링크: https://stocktwits.com/news-articles/markets/equity/analyst-conservative-on-crypto-stock-coin-mstr-hood/cZoT0OQRJ3G?.tsrc=rss
+**1. Coinbase (COIN) Q2 2026 Earnings Call Transcript**
+- 출처: The Motley Fool | 발행: 09:15 KST
+- 요약: Base 네트워크 거래량 $32조 돌파, 구독형 매출이 견인력 확보.
+- 투자 시사점: 거래 수수료 의존도를 낮추는 구독·Base 성장세가 장기 실적 안정성에 긍정적.
+- 감성: positive
+- 링크: https://www.fool.com/earnings/call-transcripts/2026/08/03/coinbase-coin-q2-2026-earnings-call-transcript/
 
-### CRCL (Circle)
+**2. Coinbase-Circle Partnership to Renew on Same Terms, CFO Alesia Haas Says**
+- 출처: CoinGape | 발행: 02:39 KST
+- 요약: 코인베이스-서클 상업 파트너십이 동일 조건으로 자동 갱신 확정.
+- 투자 시사점: USDC 수익 분배 구조 유지 — 스테이블코인 관련 매출 가시성 확보로 긍정적.
+- 감성: positive
+- 링크: https://coingape.com/block-of-fame/pulse/coinbase-circle-partnership-to-renew-on-same-terms-cfo-alesia-haas-says/
 
-**Morgan Stanley downgrades Circle, slashes price target by 64%**
-- 출처: TheStreet / 발행: 02:42 KST
-- 요약: 모건스탠리가 Circle을 Underweight로 하향하고 목표가를 106달러에서 38달러로 약 64% 대폭 인하.
-- 투자 시사점: 대형 IB의 공격적 하향은 단기 강한 하방 압력. 밸류에이션 논란 심화.
-- 감성: 부정 (negative)
-- 링크: https://www.thestreet.com/crypto/markets/morgan-stanley-downgrades-circle-slashes-price-target-by-64?.tsrc=rss
+**3. Coinbase missed again, Strategy sells Bitcoin, and is PayPal for sale?**
+- 출처: CoinDesk | 발행: 02:53 KST
+- 요약: 코인베이스 실적이 또다시 컨센서스 하회했다는 평가와 크립토 업계 이슈 정리.
+- 투자 시사점: 실적 미스는 단기 부담 요인 — 트레이딩 매출 변동성에 대한 경계 필요.
+- 감성: negative
+- 링크: http://videos.coindesk.com/previews/SEZhxC2G
 
-**Why Circle Internet Stock Is Slumping Today Even After a Fresh Buy Rating**
-- 출처: The Motley Fool / 발행: 03:00 KST
-- 요약: 한 곳은 매수, 다른 곳은 공격적 하향으로 애널리스트 의견이 엇갈리며 주가는 하락.
-- 투자 시사점: 엇갈리는 커버리지로 변동성 확대. 하향 쪽 영향이 우세.
-- 감성: 부정 (negative)
-- 링크: https://finance.yahoo.com/m/b8d9a955-fb5e-357c-8db0-8bdbce426d65/why-circle-internet-stock-is.html?.tsrc=rss
+**4. This Analyst Turns More Conservative On Crypto Stock Valuations, But Says Buy The Dip In COIN, MSTR, HOOD**
+- 출처: Stocktwits | 발행: 00:42 KST
+- 요약: Cantor Fitzgerald가 목표주가는 낮췄으나 COIN 등 크립토주 저가 매수 의견 유지.
+- 투자 시사점: 밸류에이션 가정 조정에 따른 목표가 하향일 뿐 투자의견은 우호적 — 조정 시 매수 관점.
+- 감성: neutral
+- 링크: https://stocktwits.com/news-articles/markets/equity/analyst-conservative-on-crypto-stock-coin-mstr-hood/cZoT0OQRJ3G
 
-**CLARITY Act Heads to White House Review as Bob Diamond Backs 24/7 Onchain Markets**
-- 출처: CCN / 발행: 00:54 KST
-- 요약: 크립토 규제 명확성을 담은 CLARITY Act가 백악관 검토 단계로 진입, 상원 처리 시한은 촉박.
-- 투자 시사점: 스테이블코인·온체인 시장 규제 명확화는 Circle에 중장기 호재. 입법 속도가 관건.
-- 감성: 긍정 (positive)
-- 링크: https://www.ccn.com/news/crypto/clarity-act-4-days-circle-hyperliquid-bob-diamond/?.tsrc=rss
+---
+
+### 🟡 CRCL (Circle)
+
+**1. Morgan Stanley downgrades Circle, slashes price target by 64%**
+- 출처: TheStreet | 발행: 02:42 KST
+- 요약: 모건스탠리가 서클을 Underweight로 하향하고 목표주가를 $106→$38로 64% 삭감.
+- 투자 시사점: 대형 IB의 공격적 하향은 단기 강한 하방 압력 — 실적 발표 전 리스크 확대.
+- 감성: negative
+- 링크: https://www.thestreet.com/crypto/markets/morgan-stanley-downgrades-circle-slashes-price-target-by-64
+
+**2. Circle Heads Into Q2 Earnings Amid Rising Short Interest**
+- 출처: Yahoo Finance (Benzinga) | 발행: 13:31 KST
+- 요약: 공매도 잔량이 늘어난 가운데 수요일 개장 전 2분기 실적 발표 예정.
+- 투자 시사점: 숏 스퀴즈 vs 실적 실망의 양방향 변동성 — 실적이 방향성의 핵심 트리거.
+- 감성: neutral
+- 링크: https://finance.yahoo.com/markets/stocks/articles/circle-heads-q2-earnings-amid-043108868.html
+
+**3. Why Analysts Are Divided Over Circle (CRCL) Stock**
+- 출처: Barchart | 발행: 05:24 KST
+- 요약: TD Cowen과 모건스탠리가 상반된 리서치 노트를 내며 애널리스트 시각 분열.
+- 투자 시사점: 스테이블코인 밸류에이션 논쟁이 첨예 — 실적으로 논쟁 정리될 때까지 변동성 지속.
+- 감성: neutral
+- 링크: https://www.barchart.com/story/news/3619984/why-analysts-are-divided-over-circle-crcl-stock
+
+**4. CLARITY Act Heads to White House Review as Bob Diamond Backs 24/7 Onchain Markets**
+- 출처: CCN | 발행: 00:54 KST
+- 요약: 크립토 시장 규제안 CLARITY Act가 상원 처리 시한을 앞두고 백악관 검토 단계로 이동.
+- 투자 시사점: 스테이블코인 규제 명확화는 USDC 발행사 서클에 중장기 구조적 호재.
+- 감성: positive
+- 링크: https://www.ccn.com/news/crypto/clarity-act-4-days-circle-hyperliquid-bob-diamond/
 
 ---
 
 ## 섹션 2. 오늘의 Hype 뉴스 TOP 5
 
-### 1. Palantir soars 12% on blowout quarter, U.S. commercial revenue up nearly 150%
-- 출처: CNBC / 발행: 07:47 KST
-- 요약: 팔란티어 2분기 실적이 컨센서스를 크게 상회하며 주가가 12% 급등. 미국 상업 매출이 약 150% 폭증하고 가이던스도 상향.
-- 왜 지금 hype?: AI 소프트웨어 실수요를 보여준 실적으로 섹터 전반 투심을 자극.
-- 감성: 긍정 (positive)
+**1. Palantir soars 12% on blowout quarter, U.S. commercial revenue up ~150%**
+- 출처: CNBC | 발행: 07:47 KST
+- 요약: 팔란티어가 2분기 어닝 서프라이즈와 가이던스 상향으로 12% 급등. 미국 상업 매출이 전년비 약 150% 폭증하며 'Rule of 40' 점수가 155%에 도달.
+- 왜 지금 hype인가: AI 소프트웨어 수익화의 대표 증거 — 오늘 시장 전반 AI 테마 심리를 끌어올린 최대 화제주.
+- 감성: positive
 - 링크: https://www.cnbc.com/2026/08/03/palantir-pltr-earnings-q2-2026.html
 
-### 2. Amazon tops $3 trillion market cap as stock continues post-earnings surge
-- 출처: CNBC / 발행: 05:02 KST
-- 요약: 아마존이 실적 발표 후 랠리를 이어가며 사상 처음으로 시가총액 3조 달러를 돌파. 주가는 4.6% 상승해 신고가 마감.
-- 왜 지금 hype?: 빅테크 AI 투자 회수 서사가 시장에 먹히기 시작했다는 신호.
-- 감성: 긍정 (positive)
+**2. Amazon tops $3 trillion market cap as stock continues post-earnings surge**
+- 출처: CNBC | 발행: 05:02 KST
+- 요약: AWS 매출이 $42.2B로 급증하며 아마존 주가가 사상 최고치 경신, 시총 $3조 돌파. 2012년 이후 최대 랠리.
+- 왜 지금 hype인가: 빅테크 AI 자본지출이 실제 클라우드 매출로 연결됨을 확인 — 'Mag Seven' 재평가의 촉매.
+- 감성: positive
 - 링크: https://www.cnbc.com/2026/08/03/amazon-amzn-stock-market-cap-earnings.html
 
-### 3. Quantum sector surges: D-Wave +11%, IonQ +9% after SkyWater buyout, Rigetti +7%
-- 출처: 24/7 Wall St. / 발행: 01:34 KST
-- 요약: 두 건의 대형 양자 딜(Nasdaq-Verafin, IonQ-SkyWater)이 발표되며 양자컴퓨팅 섹터가 일제히 급등. IonQ는 18억 달러 SkyWater 인수 마무리.
-- 왜 지금 hype?: 양자 테마에 M&A 모멘텀이 붙으며 단기 자금이 집중.
-- 감성: 긍정 (positive)
-- 링크: https://247wallst.com/investing/2026/08/03/d-wave-spikes-11-on-nasdaq-verafin-deal-ionq-gains-9-after-skywater-buyout-rigetti-rises-7/?.tsrc=rss
+**3. White House to host AI companies Tuesday to review new model-testing framework**
+- 출처: CNBC | 발행: 01:56 KST
+- 요약: 트럼프 행정부가 첨단 AI 모델의 사이버보안 역량 평가 프레임워크를 논의하기 위해 AI 기업들을 소집. 6월 행정명령의 후속 조치.
+- 왜 지금 hype인가: AI 규제·거버넌스 방향을 가늠할 이벤트 — 전 AI 섹터의 정책 리스크·수혜 재편에 직결.
+- 감성: neutral
+- 링크: https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html
 
-### 4. Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams
-- 출처: CNBC / 발행: 01:44 KST
-- 요약: 비자가 AI 기반 사기 급증에 대응해 행동 기반 사기탐지 업체 BioCatch를 24억 달러에 인수. 부가서비스 사업 확장의 일환.
-- 왜 지금 hype?: AI 악용에 맞선 보안 수요 확대를 보여주는 대형 딜.
-- 감성: 긍정 (positive)
+**4. Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams**
+- 출처: CNBC | 발행: 01:44 KST
+- 요약: 비자가 AI 기반 사기 급증에 대응해 행동 기반 사기탐지 업체 BioCatch를 24억 달러에 인수. 부가서비스 사업 확장 일환.
+- 왜 지금 hype인가: AI 악용 리스크가 사이버보안 M&A를 자극 — 핀테크·보안 테마의 자본 이동을 보여주는 신호.
+- 감성: positive
 - 링크: https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html
 
-### 5. Snap's stock jumps 8% on earnings beat and strong sales forecast
-- 출처: CNBC / 발행: 07:03 KST
-- 요약: 스냅이 2분기 전 항목에서 컨센서스를 상회하고 강한 매출 가이던스를 제시하며 주가가 8% 상승.
-- 왜 지금 hype?: 광고 회복과 실적 서프라이즈로 소셜·광고주에 긍정 신호.
-- 감성: 긍정 (positive)
-- 링크: https://www.cnbc.com/2026/08/03/snap-q2-earnings-report-2026.html
+**5. Sequoia's Shaun Maguire leads $1B round for nuclear startup Valar Atomics**
+- 출처: TechCrunch | 발행: 02:16 KST
+- 요약: 원자력 스타트업 Valar Atomics가 60억 달러 밸류에이션에 10억 달러를 조달. 6월 엔비디아와 개발 계약 체결.
+- 왜 지금 hype인가: AI 데이터센터 전력 수요가 원자력 투자 붐으로 확산 — 'AI = 전력' 테마의 대표 딜.
+- 감성: positive
+- 링크: https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/
+
+---
+
+*자동 생성 브리핑 · 참고용이며 투자 조언이 아닙니다.*
