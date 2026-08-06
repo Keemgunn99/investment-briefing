@@ -1,24 +1,26 @@
-# 📊 데일리 투자 브리핑 — 2026-08-06 (목)
+# 📊 데일리 투자 브리핑 — 2026-08-06
 
-> 수집 방식: RSS 당일(KST) 발행 기사 필터링 · 업데이트: 2026-08-06 18:00 KST
+> 업데이트: 2026-08-06 18:11 KST · 당일(KST) 발행 기사 기준
 
 ---
 
-## 🗂 섹션 1. 보유 종목 뉴스
+## 섹션 1. 보유 종목 뉴스
 
 ### IREN (iRen Ltd)
 
-**1. IREN Signed $2.8 Billion in New AI Contracts. The Whole Company Is Worth About $15 Billion.**
-- 출처: Motley Fool | 발행: 03:07 KST
-- 한 줄 요약: IREN이 28억 달러 규모의 신규 AI 계약을 체결했으며 고객사에 Microsoft와 Nvidia가 포함됐다.
-- 투자 시사점: 시총(약 150억 달러) 대비 계약 규모가 커 AI 인프라 매출 가시성이 크게 개선. 다만 실행 리스크는 "얼마나 빨리 데이터센터를 짓느냐"에 달림.
+**1. IREN, 신규 AI 계약 28억 달러 체결 — 시가총액은 약 150억 달러**
+- 출처: The Motley Fool
+- 발행: 03:07 KST
+- 요약: IREN이 28억 달러 규모의 신규 AI 인프라 계약을 체결했으며, 고객사에 Microsoft와 Nvidia가 포함됨. 관건은 수요를 감당할 만큼 빠르게 데이터센터를 구축하는 것.
+- 투자 시사점: 시총 대비 큰 계약 규모로 AI 인프라 사업 전환이 실질적 매출로 이어지는 중. 다만 실행(구축 속도) 리스크가 향후 주가의 핵심 변수.
 - 감성: **positive**
 - 링크: https://www.fool.com/investing/2026/08/05/iren-signed-28-billion-in-new-ai-contracts-the-who/
 
-**2. Iren vs. AeroVironment: A Comparison of Recent Revenue Trajectories**
-- 출처: Motley Fool | 발행: 07:09 KST
-- 한 줄 요약: IREN은 2025년 3분기 정점 후 매출이 다소 후퇴한 반면, 비교 대상 AeroVironment는 같은 기간 매출이 3배 이상 급증했다.
-- 투자 시사점: 최근 매출 모멘텀 둔화 지적은 부담이나, 위 신규 AI 계약이 향후 궤적을 반전시킬 수 있는지가 관건.
+**2. IREN vs. AeroVironment: 최근 매출 궤적 비교**
+- 출처: The Motley Fool
+- 발행: 07:09 KST
+- 요약: IREN은 2025년 3분기 정점 이후 매출이 다소 둔화된 반면, AeroVironment는 같은 기간 매출이 3배 이상 성장했다는 비교 분석.
+- 투자 시사점: 비트코인 채굴 매출 변동성에 따른 최근 둔화가 부각됨. AI 인프라로의 매출 축 이동 속도가 재평가 포인트.
 - 감성: **neutral**
 - 링크: https://www.fool.com/coverage/charts/2026/08/05/iren-vs-aerovironment-a-comparison-of-recent-revenue-trajectories/
 
@@ -26,125 +28,150 @@
 
 오늘 주요 뉴스 없음
 
-### CCXI (Agility Robotics)
+### CCXI (Agility Robotics / Churchill Capital Corp XI)
 
 오늘 주요 뉴스 없음
 
 ### TSLA (Tesla)
 
-**1. Nvidia Stock Is on the Rise, After Elon Musk Says SpaceX Will 'Exclusively' Buy Its Chips**
-- 출처: Investopedia | 발행: 03:10 KST
-- 한 줄 요약: 머스크가 SpaceX는 Nvidia 칩만 독점 사용하겠다고 언급하며 Nvidia 주가가 상승, Tesla-SpaceX-Nvidia AI 생태계 결속이 부각됐다.
-- 투자 시사점: 머스크 진영의 AI 인프라 축이 Nvidia로 확실히 기울며, Tesla의 AI/컴퓨트 전략도 같은 궤도로 해석됨.
-- 감성: **positive**
-- 링크: https://www.investopedia.com/market-update-nvidia-stock-is-on-the-rise-after-elon-musk-says-spacex-will-exclusively-buy-its-chips-nvda-spcx-12034923
-
-**2. Musk Says These Tesla Products Will 'Dramatically' Increase Starlink Demand**
-- 출처: Yahoo Finance (Barron's) | 발행: 05:01 KST
-- 한 줄 요약: 머스크는 Tesla의 AI 제품들이 SpaceX Starlink 수요를 '극적으로' 늘릴 것이라 밝혔으나, 발언 당시 두 종목 모두 하락했다.
-- 투자 시사점: Tesla·SpaceX 사업 간 시너지 서사는 강화되나, 단기 주가는 실적·자본지출 우려에 눌림.
+**1. 테슬라, 연간 옵티머스 로봇 100만 대 생산 목표**
+- 출처: Yahoo Finance
+- 발행: 13:32 KST
+- 요약: 일론 머스크가 연간 100만 대의 옵티머스 휴머노이드 로봇 생산 목표를 제시하며 회사의 장기 비전을 로봇·AI에 결부.
+- 투자 시사점: 옵티머스가 테슬라 밸류에이션의 장기 서사 핵심으로 부상. 다만 양산 시점·수율 불확실성으로 단기 실적 기여는 제한적.
 - 감성: **neutral**
-- 링크: https://finance.yahoo.com/m/df940dcf-98f5-31f4-9cc7-af3aff5316eb/musk-says-these-tesla.html
+- 링크: https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-targets-1-million-043212925.html
 
-**3. Tesla and SpaceX Are Secretly Merging—Not on Paper, But in AI Power**
-- 출처: Yahoo Finance (Barron's) | 발행: 05:22 KST
-- 한 줄 요약: 문서상 합병은 아니지만 Tesla와 SpaceX가 AI 컴퓨트·에너지 인프라 측면에서 사실상 결합되고 있다는 분석.
-- 투자 시사점: 두 종목의 주가 상관성이 높아져, Tesla 투자자는 SpaceX 실적·자본지출 흐름도 함께 봐야 함.
-- 감성: **neutral**
-- 링크: https://finance.yahoo.com/m/20957c65-e63c-3157-8235-aaae2d84be5b/tesla-and-spacex-are-secretly.html
+**2. 웨이모 CEO, 라이다 없는 테슬라 로보택시 우회 저격**
+- 출처: TheStreet
+- 발행: 13:37 KST
+- 요약: 웨이모 CEO가 라이다 없이는 레벨4 자율주행이 불완전하다며 테슬라 로보택시의 카메라 전용 접근을 겨냥.
+- 투자 시사점: 로보택시 안전성·규제 통과 관련 시장 우려를 재점화. 자율주행 경쟁 구도상 테슬라에 부정적 프레이밍.
+- 감성: **negative**
+- 링크: https://www.thestreet.com/technology/waymo-ceo-tesla-robotaxis-need-lidar-to-work
 
-**4. Should You Forget Tesla Stock Near a 52-Week Low?**
-- 출처: Motley Fool | 발행: 07:35 KST
-- 한 줄 요약: Tesla 주가가 52주 신저가 부근에 있으며, 최근 반등이 일시적일 수 있으나 장기 강세 논리를 깨는 것은 아니라는 진단.
-- 투자 시사점: 밸류에이션·심리 측면 저점 논쟁 국면. 로보택시·Optimus 실행이 재평가 트리거.
+**3. 52주 최저가 부근 테슬라 주식, 지금 잊어야 할까?**
+- 출처: The Motley Fool
+- 발행: 07:35 KST
+- 요약: 최근 반등이 일시적일 수 있으나 장기 강세 논리가 무너진 것은 아니라는 분석.
+- 투자 시사점: 주가가 52주 저점권에 머물며 밸류에이션 논쟁이 지속. 단기 모멘텀보다 장기 서사(로봇·자율주행)에 베팅 여부가 관건.
 - 감성: **neutral**
 - 링크: https://www.fool.com/investing/2026/08/05/should-you-forget-tesla-stock-near-a-52-week-low/
 
-**5. What New Tesla Vehicle Tests Mean for Alibaba Stock**
-- 출처: Barchart | 발행: 00:46 KST
-- 한 줄 요약: Tesla가 중국에서 Alibaba의 Qwen 모델을 차량에 시험 적용 중이라는 보도가 나왔다.
-- 투자 시사점: Tesla의 중국 현지 AI 파트너십 가능성은 중국 판매·규제 대응에 긍정적 신호가 될 수 있음.
+**4. 테슬라와 SpaceX, 문서상 아닌 'AI 파워'로 은밀히 결합 중**
+- 출처: Barron's (Yahoo Finance)
+- 발행: 05:22 KST
+- 요약: SpaceX 실적 발표 후 두 종목의 연동성이 강해짐. SpaceX 주가는 실적 후 13.6% 급락.
+- 투자 시사점: 머스크 제국 내 상호 의존 심화로 SpaceX 변동성이 테슬라 심리에 전이될 수 있음. 합병 기대와 리스크가 공존.
 - 감성: **neutral**
-- 링크: https://www.barchart.com/story/news/3667871/what-new-tesla-vehicle-tests-mean-for-alibaba-stock
+- 링크: https://finance.yahoo.com/m/20957c65-e63c-3157-8235-aaae2d84be5b/tesla-and-spacex-are-secretly.html
+
+**5. 머스크 "이 테슬라 제품들이 스타링크 수요 극적으로 늘릴 것"**
+- 출처: Barron's (Yahoo Finance)
+- 발행: 05:01 KST
+- 요약: 테슬라의 AI 제품이 SpaceX 스타링크 인터넷 수요를 크게 끌어올릴 것이라는 머스크 발언. 발언 당시 두 종목 모두 하락.
+- 투자 시사점: 테슬라-SpaceX 생태계 시너지 서사 강화. 단, 실적 발표 후 매도세 속 발언이라 즉각적 주가 방어 효과는 제한적.
+- 감성: **neutral**
+- 링크: https://finance.yahoo.com/m/df940dcf-98f5-31f4-9cc7-af3aff5316eb/musk-says-these-tesla.html
 
 ### COIN (Coinbase)
 
-**1. Coinbase CEO Brian Armstrong Urges Senate to Pass CLARITY Act — '70% of Americans Want Clear Rules'**
-- 출처: Yahoo Finance (Benzinga) | 발행: 07:01 KST
-- 한 줄 요약: 암스트롱 CEO가 상원에 CLARITY 법안 통과를 촉구하며, 명확한 규제가 소비자 보호와 미국 감독 강화에 도움이 된다고 주장했다.
-- 투자 시사점: 크립토 규제 명확화는 Coinbase의 최대 상방 촉매. 입법 진전 시 규제 리스크 프리미엄 축소 기대.
+**1. 코인베이스 CEO 브라이언 암스트롱, 상원에 CLARITY 법안 통과 촉구**
+- 출처: Yahoo Finance (Benzinga)
+- 발행: 07:01 KST
+- 요약: 암스트롱 CEO가 "크립토를 좋아하든 싫어하든 미국인 70%가 명확한 규칙을 원한다"며 CLARITY 법안 지지를 상원에 촉구.
+- 투자 시사점: 규제 명확화는 코인베이스의 핵심 상방 촉매. 법안 진전 시 거래·수탁 사업 전반에 우호적.
 - 감성: **positive**
 - 링크: https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-brian-armstrong-urges-220103571.html
 
-### CRCL (Circle)
+> 참고: Circle이 USDC 유통 파트너십을 코인베이스와 기존 조건대로 갱신했다는 소식(Arc 검증인 발표 관련)도 COIN에 우호적 재료.
 
-**1. Circle Internet Stock Angles Higher as Earnings Beat Overcomes the Crypto Slump**
-- 출처: Yahoo Finance (Barron's) | 발행: 04:18 KST
-- 한 줄 요약: Circle가 시장 예상을 웃도는 2분기 실적을 발표하며 크립토 약세장 속에서도 주가가 상승했다.
-- 투자 시사점: EPS 서프라이즈로 수익성 개선 확인. 단, 아래 매출 미스 이슈와 함께 봐야 함.
-- 감성: **positive**
-- 링크: https://finance.yahoo.com/m/8bf38b81-5be4-3ccb-9d36-e0448e84a12f/circle-internet-stock-angles.html
+### CRCL (Circle Internet Group)
 
-**2. Circle Stock Drops After Q2 Earnings Beat but Revenue Misses**
-- 출처: Yahoo Finance | 발행: 02:55 KST
-- 한 줄 요약: 이익은 예상을 상회했으나 USDC 관련 매출이 기대에 못 미치며 주가가 하락하는 등 반응이 엇갈렸다.
-- 투자 시사점: 실적은 '이익 beat + 매출 miss'로 혼재. USDC 유통량 성장 둔화가 밸류에이션 논쟁의 핵심.
+**1. 서클 Q2 실적: EPS 서프라이즈에도 USDC 매출은 기대 하회 → 주가 하락**
+- 출처: Yahoo Finance
+- 발행: 02:55 KST
+- 요약: 서클이 2분기 이익은 예상을 웃돌았으나 USDC 관련 매출이 기대에 못 미치며 주가 하락 압력.
+- 투자 시사점: 금리 의존적 매출 구조의 한계 노출. 이익 개선에도 매출 성장 질에 대한 시장 회의가 밸류에이션 부담.
 - 감성: **negative**
 - 링크: https://finance.yahoo.com/markets/stocks/articles/circle-stock-drops-q2-earnings-175524719.html
 
-**3. Circle Taps Visa, Mastercard and BlackRock as Validators for September Arc Launch**
-- 출처: Decrypt | 발행: 00:38 KST
-- 한 줄 요약: Circle가 9월 Arc 블록체인 메인넷 출시를 앞두고 Visa·Mastercard·BlackRock을 검증자로 확보했으며, Coinbase와의 USDC 유통 계약도 갱신했다.
-- 투자 시사점: TradFi 대형 기관을 검증자로 편입해 기관용 스테이블코인 인프라 신뢰도를 강화. USDC 넘어선 사업 확장 서사에 힘.
+**2. 서클, 9월 Arc 메인넷 검증인으로 Visa·Mastercard·BlackRock 확보**
+- 출처: Decrypt
+- 발행: 00:38 KST
+- 요약: Arc 블록체인이 9월 16일 출시되며 TradFi 거물들이 검증인으로 참여. 코인베이스와의 USDC 유통 계약도 갱신, 테스트넷은 5억 건 처리.
+- 투자 시사점: 대형 금융기관 참여로 Arc의 제도권 신뢰도 확보. USDC 이후 성장축이 구체화되는 강한 긍정 재료.
 - 감성: **positive**
 - 링크: https://decrypt.co/374961/circle-taps-visa-mastercard-and-blackrock-as-validators-for-september-arc-launch
 
-**4. CRCL Stock Shrugs Off Q2 Miss — Circle CEO Is Betting On Growth Beyond USDC**
-- 출처: Stocktwits | 발행: 02:15 KST
-- 한 줄 요약: 앨레어 CEO는 Circle를 단순 스테이블코인 사업이 아닌 '인터넷 금융 시스템' 인프라로 키우고 있다고 강조했다.
-- 투자 시사점: 성장 축을 USDC 외 결제·인프라로 확장하려는 전략. 실행되면 매출 구조 다변화 기대.
+**3. 서클 CEO 앨레어 "Arc가 USDC보다 더 큰 기회"**
+- 출처: Yahoo Finance (Benzinga)
+- 발행: 13:57 KST
+- 요약: 앨레어 CEO가 Arc를 다른 블록체인보다 우선하며 USDC를 능가하는 기회로 규정, 네트워크 출시일도 확정.
+- 투자 시사점: 성장 스토리를 스테이블코인 단일 사업에서 '인터넷 금융 시스템' 인프라로 확장. 장기 성장 서사 강화.
+- 감성: **positive**
+- 링크: https://finance.yahoo.com/markets/crypto/articles/circle-ceo-jeremy-allaire-says-045748266.html
+
+**4. 서클 USDC 유통량 151% 급증 — 그러나 매출은 다른 이야기**
+- 출처: TheStreet
+- 발행: 10:37 KST
+- 요약: USDC 유통량은 151% 급증했지만 매출 대부분을 차지하는 이자수익이 금리 환경에 좌우되며 매출 성장은 이에 미치지 못함.
+- 투자 시사점: 볼륨 성장과 수익화의 괴리를 확인. 금리 하락 국면에서 매출 민감도가 리스크.
 - 감성: **neutral**
-- 링크: https://stocktwits.com/news-articles/markets/equity/crcl-stock-q2-miss-circle-ceo-is-betting-on-growth-beyond-usdc-stablecoin/cZo4UPNRJeJ
+- 링크: https://www.thestreet.com/investing/stocks/circle-crcl-q2-earnings-revenue-miss-usdc-volume
+
+**5. 서클 CEO 앨레어 "수십억 개의 AI 에이전트가 곧 노동시장에 유입될 것"**
+- 출처: Yahoo Finance
+- 발행: 01:00 KST
+- 요약: 앨레어 CEO가 AI 에이전트 경제의 도래를 전망하며 스테이블코인·결제 인프라의 역할을 강조.
+- 투자 시사점: AI 에이전트 결제 테마와 스테이블코인의 접점을 부각. 장기 내러티브이나 단기 실적과는 무관.
+- 감성: **neutral**
+- 링크: https://finance.yahoo.com/technology/article/circle-ceo-jeremy-allaire-billions-of-agents-will-soon-flood-the-workforce-160009916.html
 
 ---
 
-## 🔥 섹션 2. 오늘의 Hype 뉴스 TOP 5
+## 섹션 2. 오늘의 Hype 뉴스 TOP 5
 
-**1. 구글 AI 대개편 — 제프 딘 27년 만에 퇴사, 하사비스 딥마인드 CEO 사임**
-- 출처: CNBC / TechCrunch | 발행: 03:51 KST
-- 요약: 구글이 AI 조직을 대대적으로 개편, 수석 과학자 제프 딘이 회사를 떠나고 데미스 하사비스가 딥마인드 CEO에서 물러난다. 딘 등 핵심 연구진은 과학적 발견을 AI로 가속하는 별도 스타트업을 창업한다.
-- 왜 지금 hype: AI 최전선 인재의 대규모 이탈은 빅테크 AI 리더십 판도와 인재 전쟁을 다시 흔드는 사건.
-- 감성: **neutral**
+**1. 구글 AI 조직 대개편 — 수석과학자 제프 딘 퇴사·데미스 하사비스 딥마인드 CEO 사임**
+- 출처: CNBC / TechCrunch
+- 발행: 03:51 KST
+- 요약: 구글이 AI 부문을 대대적으로 재편, 27년 근속한 수석과학자 제프 딘이 퇴사하고 데미스 하사비스가 딥마인드 CEO에서 물러남. 딘은 다른 구글 임원들과 과학 연구용 AI 스타트업을 창업할 예정.
+- 왜 지금 hype: 프런티어 AI를 이끌던 핵심 인재의 대규모 이탈로 빅테크 AI 리더십 지형에 지각변동 신호.
+- 감성: **negative**
 - 링크: https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html
 
-**2. 메타, 첫 AI 코딩 에이전트 'Muse Code' 공개 — Anthropic·OpenAI에 도전**
-- 출처: CNBC / TechCrunch | 발행: 06:03 KST
-- 요약: 메타가 대규모 코드베이스에서 복잡한 작업을 처리한다고 주장하는 첫 코딩 에이전트 Muse Code를 출시했다. AI 모델·서비스 투자를 늘리며 Anthropic·OpenAI와의 경쟁에 본격 진입한다.
-- 왜 지금 hype: 코딩 에이전트 시장은 AI 상용화의 최전선으로, 메타의 참전은 경쟁 격화와 가격/성능 압력을 예고.
+**2. 엔비디아, SpaceX와 100억 달러 규모 독점 우주 AI 파트너십 확보**
+- 출처: Yahoo Finance / Investopedia
+- 발행: 17:10 KST
+- 요약: 엔비디아가 SpaceX의 Starmind 위성 AI 프로그램에 Vera Rubin NVL72 랙을 공급하는 독점 파트너십을 체결. 머스크가 "SpaceX는 엔비디아 칩만 독점 구매"라고 밝히며 NVDA 주가 상승.
+- 왜 지금 hype: AI 수요가 우주·위성 인프라로 확장되며 엔비디아 성장 서사에 새 축 추가, 즉각적 주가 촉매.
+- 감성: **positive**
+- 링크: https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-secures-exclusive-space-081052931.html
+
+**3. 메타, 첫 AI 코딩 에이전트 'Muse Code' 공개 — 앤트로픽·오픈AI에 도전장**
+- 출처: CNBC / TechCrunch
+- 발행: 06:03 KST
+- 요약: 메타가 대규모 코드베이스에서 복잡한 작업을 처리하는 첫 코딩 에이전트 'Muse Code'를 출시하며 AI 모델·서비스 투자를 확대.
+- 왜 지금 hype: 코딩 에이전트 시장이 빅테크 경쟁의 최전선으로 부상, 앤트로픽·오픈AI 대비 메타의 추격 본격화.
 - 감성: **neutral**
 - 링크: https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html
 
-**3. IonQ, 2분기 매출 287% 급증하며 양자 실적 시즌 개막**
-- 출처: Yahoo Finance | 발행: 06:50 KST
-- 요약: IonQ가 매출 8,005만 달러(전년비 +287%)로 컨센서스를 상회하고 연간 가이던스를 상향했으며, 손실 폭도 예상보다 작았다. Sandia·EPB와 양자 네트워킹·안보 협력도 발표.
-- 왜 지금 hype: 양자컴퓨팅 대표주가 실적 시즌 첫 테이프를 끊으며 섹터 전반(RGTI·QBTS)에 대한 기대를 자극.
+**4. 아이온큐, 양자 실적 시즌 개막 — 매출 287% 폭증에 DARPA·NRO 계약까지**
+- 출처: Yahoo Finance
+- 발행: 09:00 KST
+- 요약: 아이온큐가 2분기 매출 287% 급증(SkyWater 인수 완료)으로 어닝시즌을 열며 가이던스를 상향. 같은 날 DARPA 원자시계 2,800만 달러 계약과 NRO 레이더 상업 증강 계약도 발표.
+- 왜 지금 hype: 양자컴퓨팅 섹터 대표주의 실적·정부 계약 겹호재로 섹터 전반(QBTS·RGTI 실적 대기) 관심 집중.
 - 감성: **positive**
-- 링크: https://finance.yahoo.com/markets/stocks/articles/ionq-nyse-ionq-exceeds-q2-215053198.html
+- 링크: https://finance.yahoo.com/m/ed62bc93-680a-336b-b6df-73e3bdccd782/ionq-kicks-off-quantum.html
 
-**4. AMD, 실적 발표 후 주가 급락 — 리사 수, 머스크의 Nvidia 독점 발언 일축**
-- 출처: CNBC | 발행: 05:02 KST
-- 요약: AMD가 2분기 실적 발표 후 하락했으며, 리사 수 CEO는 머스크의 'SpaceX는 Nvidia만 산다'는 발언의 영향을 대수롭지 않게 넘겼다. AMD는 올해 132% 급등한 상태였다.
-- 왜 지금 hype: AI 반도체 2위 주자의 실적 실망은 고밸류 반도체 랠리의 눈높이 조정 신호로 읽힘.
+**5. 아시아 기술주 급락 — SK하이닉스 10% 폭락, 월가 AI주 조정 여파**
+- 출처: CNBC
+- 발행: 14:27 KST
+- 요약: 전일 월가 AI 대형주 하락 여파로 아시아 기술주가 동반 급락, SK하이닉스가 10% 폭락. 다만 JP모건 등은 기술주 조정이 추세 훼손은 아니라며 낙관 유지.
+- 왜 지금 hype: AI·반도체 밸류에이션 부담과 차익 실현이 글로벌 동조화되며 단기 변동성 확대 신호.
 - 감성: **negative**
-- 링크: https://www.cnbc.com/2026/08/05/amd-stock-today-earnings-q2.html
-
-**5. SpaceX 첫 공개 실적 후 주가 13% 급락 — AI 지출 급증·대규모 락업 해제 우려**
-- 출처: CNBC | 발행: 05:02 KST
-- 요약: SpaceX가 상장 후 첫 실적에서 매출은 상회했으나 막대한 자본지출과 대규모 주식 락업 해제 우려로 13% 하락했다. 머스크는 2030년 연매출 1조 달러 목표(기존 2031년)를 제시하며 강세론을 폈다.
-- 왜 지금 hype: 머스크 생태계(Tesla·Nvidia 포함)와 AI 인프라 투자 사이클의 시장 눈높이를 재설정하는 대형 이벤트.
-- 감성: **negative**
-- 링크: https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html
+- 링크: https://www.cnbc.com/2026/08/06/asia-tech-selloff-wall-street-samsung-sk-hynix.html
 
 ---
 
-*⚠️ 본 브리핑은 RSS 자동 수집·요약 자료로 투자 자문이 아닙니다. 투자 판단과 책임은 본인에게 있습니다.*
+*본 브리핑은 RSS 피드에서 당일(KST) 발행 기사만 필터링하여 자동 생성되었습니다. 투자 결정의 참고 자료이며, 투자 권유가 아닙니다.*
