@@ -1,26 +1,35 @@
-# 📊 데일리 투자 브리핑 — 2026-08-11 (화)
+# 📊 투자 뉴스 데일리 브리핑 — 2026-08-11 (화)
 
-> 수집 시각: 2026-08-11 10:16 KST · 당일(KST) 발행 기사만 수집
+> 수집 시각: 2026-08-11 18:00 KST · 당일(KST) 발행 기사만 반영
 
 ---
 
-## 🗂️ 섹션 1. 보유 종목 뉴스
+## 섹션 1. 보유 종목 뉴스
 
 ### IREN (iRen Ltd)
 
-**1. What's Driving TeraWulf (WULF) Stock, and Are Its Peers Moving Too?** `neutral`
-- **출처**: 247 Wall St. · **발행**: 05:19 KST
-- **요약**: TeraWulf가 Anthropic과 20년 리스 계약 및 대규모 자산 매각으로 비트코인 채굴 → AI 인프라 전환 경쟁의 선두로 부상했다는 내용으로, IREN 등 동종 채굴사의 동반 움직임을 점검.
-- **투자 시사점**: IREN도 같은 '채굴사 → AI 데이터센터' 재평가 테마의 수혜/경쟁 구도에 속함. 동종주 재평가 흐름이 IREN 밸류에이션 논쟁에 영향.
-- [기사 링크](https://247wallst.com/investing/2026/08/10/whats-driving-terawulf-wulf-stock-and-are-its-peers-moving-too/?.tsrc=rss)
+**1. Jim Cramer Picks CoreWeave (CRWV) as the Better Buy Over IREN**
+- 출처: Yahoo Finance | 발행: 14:04 KST
+- 요약: Mad Money에서 짐 크레이머가 IREN에 대한 질문에 "AI 인프라를 원한다면 CoreWeave가 더 낫다"며 CRWV를 선호 종목으로 언급.
+- 투자 시사점: 유명 방송인이 경쟁사를 우위에 두며 IREN 단독 매력도에 대한 상대적 부담. 단기 심리엔 약한 역풍.
+- 감성: **neutral**
+- 링크: https://finance.yahoo.com/markets/stocks/articles/jim-cramer-picks-coreweave-crwv-050443784.html
+
+**2. What's Driving TeraWulf (WULF) Stock, and Are Its Peers Moving Too?**
+- 출처: 24/7 Wall St. | 발행: 05:19 KST
+- 요약: 앤트로픽과의 20년 리스 계약·대규모 자산 매각으로 비트코인 채굴사들이 AI 인프라 기업으로 재편되는 흐름을 조명하며 IREN 등 동종주를 함께 언급.
+- 투자 시사점: BTC 채굴→AI 인프라 전환 테마가 섹터 전반 재평가를 이끄는 중. IREN도 동일 테마 수혜 후보로 거론.
+- 감성: **positive**
+- 링크: https://247wallst.com/investing/2026/08/10/whats-driving-terawulf-wulf-stock-and-are-its-peers-moving-too/
 
 ### Infleqtion (INFQ)
 
-**1. Nvidia Made Them Rich. Redditors Say These 2 Stocks Are Next** `neutral`
-- **출처**: Yahoo Finance · **발행**: 03:57 KST
-- **요약**: 엔비디아로 큰 수익을 낸 개인 투자자들이 '다음 엔비디아' 후보로 지목하는 종목을 다룬 리테일 테마성 기사로, 양자·AI 관련 소형주 관심 흐름을 반영.
-- **투자 시사점**: INFQ에 직접적인 실적/계약 재료는 아님. 양자컴퓨팅 소형주에 대한 개인 투자자 관심 지속이라는 배경 지표로만 참고.
-- [기사 링크](https://finance.yahoo.com/markets/stocks/articles/nvidia-made-them-rich-redditors-185703582.html?.tsrc=rss)
+**1. Nvidia Made Them Rich. Redditors Say These 2 Stocks Are Next**
+- 출처: Yahoo Finance | 발행: 03:57 KST
+- 요약: 엔비디아로 수익을 낸 개인 투자자들이 다음 대박 후보로 지목한 종목을 소개하는 기사로, INFQ가 리테일 관심 대상으로 거론.
+- 투자 시사점: 소셜 기반 리테일 관심 유입은 단기 변동성·거래량 확대 요인. 펀더멘털보다 모멘텀성 재료로 해석 필요.
+- 감성: **neutral**
+- 링크: https://finance.yahoo.com/markets/stocks/articles/nvidia-made-them-rich-redditors-185703582.html
 
 ### CCXI (Agility Robotics)
 
@@ -28,104 +37,91 @@
 
 ### TSLA (Tesla)
 
-**1. Tesla Autopilot 조사 — 49ers 감독 Kyle Shanahan 사고 연루** `negative`
-- **출처**: Yahoo Finance · **발행**: 05:41 KST (관련 01:04 KST)
-- **요약**: NFL 샌프란시스코 49ers 감독의 교통사고에 Tesla 오토파일럿이 작동 중이었을 가능성이 제기되며 자율주행 소프트웨어가 다시 규제·안전 조사 대상에 오름.
-- **투자 시사점**: FSD/오토파일럿 안전성 이슈는 규제 리스크와 로보택시 사업 신뢰도에 부정적. 헤드라인 리스크 주의.
-- [기사 링크](https://finance.yahoo.com/video/tesla-autopilot-under-scrutiny-crash-204100840.html?.tsrc=rss)
+**1. Tesla Just Found Another Way to Grow Without Selling a Car**
+- 출처: Yahoo Finance | 발행: 09:31 KST
+- 요약: 로보택시 서비스가 유료 주행 약 70만 마일을 돌파하며 차량 판매 외 자율주행 매출 성장 경로가 부각.
+- 투자 시사점: 로보택시 매출 실체화는 밸류에이션 재평가의 핵심 축. 성장 스토리 강화.
+- 감성: **positive**
+- 링크: https://finance.yahoo.com/technology/articles/tesla-just-found-another-way-003110177.html
 
-**2. Musk의 텍사스 'Terafab' 반도체 공장 ($16.8B, 세계 최대 규모)** `neutral`
-- **출처**: Yahoo Finance · **발행**: 05:20 KST (관련 05:31 / 02:11 KST)
-- **요약**: Tesla·SpaceX가 텍사스 그라임스 카운티에 1억 sqft 이상, 168억 달러 규모의 'Terafab' 칩 공장을 계획. Musk는 SpaceX가 Tesla보다 3배 많은 AI 컴퓨트를 소비할 것이라 언급.
-- **투자 시사점**: 자체 AI 칩 수직계열화는 장기 AI 야망엔 긍정적이나 대규모 CAPEX·마진 훼손 우려가 공존. 실행 리스크 관건.
-- [기사 링크](https://finance.yahoo.com/technology/articles/everything-bigger-texas-musk-planned-202036622.html?.tsrc=rss)
+**2. Tesla Autopilot under scrutiny after crash involving 49ers coach Kyle Shanahan**
+- 출처: Yahoo Finance | 발행: 05:41 KST
+- 요약: NFL 49ers 감독이 연루된 사고 당시 오토파일럿이 작동 중이었을 가능성이 제기되며 규제·안전 논란 재점화.
+- 투자 시사점: 유명인 연루 사고는 여론·규제 리스크를 키움. 자율주행 신뢰도에 단기 부담.
+- 감성: **negative**
+- 링크: https://finance.yahoo.com/markets/stocks/article/tesla-in-the-spotlight-as-nfls-49ers-head-coach-says-autopilot-may-have-been-engaged-during-accident-160422251.html
 
-**3. Tesla 로보택시, Starlink 기본 탑재 — "모든 차량으로 확대"** `positive`
-- **출처**: Stocktwits · **발행**: 04:36 KST
-- **요약**: Tesla가 목적형 로보택시 Cybercab에 Starlink 직접 연동을 공식 확인했고, Musk는 이를 전 차종으로 확대하겠다고 언급.
-- **투자 시사점**: 로보택시 상용화 스토리와 SpaceX 시너지를 강화하는 재료. 자율주행 테마 모멘텀에 긍정적.
-- [기사 링크](https://stocktwits.com/news-articles/markets/equity/tesla-s-robotaxi-now-ships-with-built-in-starlink-musk-says-it-s-coming-to-every-car/cZoj6ZVRJff?.tsrc=rss)
+**3. Tesla's Robotaxi Now Ships With Built-In Starlink—Musk Says It's Coming To Every Car**
+- 출처: Stocktwits | 발행: 04:36 KST
+- 요약: 테슬라가 사이버캡(로보택시)에 스타링크 직접 연동을 공식화하고 전 차종 확대 계획을 시사.
+- 투자 시사점: 위성 연결 상시화는 로보택시 상용화·서비스 차별화 요소. 생태계 락인 강화.
+- 감성: **positive**
+- 링크: https://stocktwits.com/news-articles/markets/equity/tesla-s-robotaxi-now-ships-with-built-in-starlink-musk-says-it-s-coming-to-every-car/cZoj6ZVRJff
 
-**4. 개인 투자자들, Tesla 매도세에 선 긋다 — 지난주 약 6% 반등** `positive`
-- **출처**: TheStreet · **발행**: 06:03 KST
-- **요약**: Tesla 주가가 3주 연속 하락 후 지난주 약 6% 급반등하며 강한 리테일 매수세가 재확인됨.
-- **투자 시사점**: 개인 투자자 저가 매수 유입은 단기 하방 지지선 형성에 긍정적. 다만 펀더멘털 개선 확인 필요.
-- [기사 링크](https://www.thestreet.com/automotive/retail-traders-just-drew-a-line-under-teslas-sell-off?.tsrc=rss)
-
-**5. Cathie Wood ARK, 매도장에서 Nvidia·Tesla·SpaceX $40M 매수** `positive`
-- **출처**: The Motley Fool · **발행**: 03:05 KST
-- **요약**: ARK가 지난달 AI 매도 국면에서 엔비디아·테슬라·SpaceX 주식을 4,000만 달러어치 저가 매수.
-- **투자 시사점**: 대표 성장주 매니저의 딥 바이잉은 심리 개선 요인. 기관 저점 매수 신호로 참고.
-- [기사 링크](https://www.fool.com/investing/2026/08/10/cathie-woods-ark-bought-40-million-of-nvidia-tesla/?.tsrc=rss)
+**4. Does Tesla's Terafab Texas Chip Bet Reshape Its AI Ambitions And Margin Story?**
+- 출처: Yahoo Finance | 발행: 02:11 KST
+- 요약: 텍사스 Terafab 반도체 공장 투자가 테슬라의 AI 야망과 마진 스토리를 어떻게 바꿀지 분석.
+- 투자 시사점: 대규모 칩 자체 생산 투자는 장기 수직계열화 기대 vs 단기 비용·마진 압박의 양날.
+- 감성: **neutral**
+- 링크: https://finance.yahoo.com/technology/ai/articles/does-tesla-terafab-texas-chip-171100387.html
 
 ### COIN (Coinbase)
 
-**1. Coinbase 등 급등 — 7월 고용지표 부진에 랠리** `positive`
-- **출처**: Yahoo Finance · **발행**: 09:13 KST
-- **요약**: 7월 고용이 예상 밖 2.3만 명 감소로 노동시장 냉각 신호가 나오자 금리 인하 기대가 커지며 Coinbase를 포함한 다수 종목이 오후 세션 급등.
-- **투자 시사점**: 금리 인하 기대는 크립토·고베타 성장주에 우호적. 매크로 순풍이 COIN 단기 반등을 지지.
-- [기사 링크](https://finance.yahoo.com/markets/stocks/articles/corning-sunrun-coinbase-builders-firstsource-001322125.html?.tsrc=rss)
-
-**2. Cathie Wood, 급등주에 $36.9M 투자** `neutral`
-- **출처**: Yahoo Finance · **발행**: 05:11 KST
-- **요약**: ARK가 리스크-리워드가 개선된 것으로 본 급등주에 3,690만 달러 신규 매수를 단행(크립토 관련주 포함).
-- **투자 시사점**: 기관 자금의 크립토 관련주 재유입 신호. 방향성 참고 지표.
-- [기사 링크](https://finance.yahoo.com/markets/stocks/articles/cathie-wood-invests-36-9-201143798.html?.tsrc=rss)
-
-**3. Marex, 연내 비트코인·이더리움 개시증거금 수용 계획** `neutral`
-- **출처**: Investing.com (Yahoo) · **발행**: 00:30 KST
-- **요약**: Marex Group이 올해 하반기부터 파생상품 개시증거금 담보로 BTC·ETH를 수용할 계획으로 스테이블코인 프로그램을 확장.
-- **투자 시사점**: 전통 금융권의 크립토 담보 채택 확산은 거래·수탁 수요를 넓혀 COIN 등 인프라 기업에 장기 우호적.
-- [기사 링크](https://finance.yahoo.com/markets/crypto/articles/exclusive-marex-plans-accept-bitcoin-153057893.html?.tsrc=rss)
+**1. Corning, Sunrun, Coinbase, Builders FirstSource, and Blue Bird Shares Skyrocket**
+- 출처: Yahoo Finance | 발행: 09:13 KST
+- 요약: 7월 고용보고서에서 2.3만 명 감소가 나오며 노동시장 둔화 신호에 위험자산 랠리, 코인베이스 주가 급등.
+- 투자 시사점: 금리 인하 기대가 크립토·고베타주에 우호적. COIN은 매크로 완화 기대의 대표 수혜주.
+- 감성: **positive**
+- 링크: https://finance.yahoo.com/markets/stocks/articles/corning-sunrun-coinbase-builders-firstsource-001322125.html
 
 ### CRCL (Circle)
 
-**1. Cathie Wood, 급등주에 $36.9M 투자** `neutral`
-- **출처**: Yahoo Finance · **발행**: 05:11 KST
-- **요약**: ARK가 리스크-리워드 개선을 근거로 급등한 크립토·핀테크 관련 종목에 3,690만 달러를 신규 투자.
-- **투자 시사점**: 스테이블코인·크립토 인프라 관련주에 대한 기관 관심 지속. CRCL 심리에 간접 긍정.
-- [기사 링크](https://finance.yahoo.com/markets/stocks/articles/cathie-wood-invests-36-9-201143798.html?.tsrc=rss)
-
-**2. Marex, 연내 BTC·ETH 증거금 수용 — 스테이블코인 프로그램 확장** `neutral`
-- **출처**: Investing.com (Yahoo) · **발행**: 00:30 KST
-- **요약**: Marex가 기존 스테이블코인 프로그램을 확장하며 BTC·ETH를 개시증거금 담보로 수용할 예정.
-- **투자 시사점**: 전통 금융의 스테이블코인·크립토 담보 확대는 USDC 활용처 확장 서사에 긍정적 배경.
-- [기사 링크](https://finance.yahoo.com/markets/crypto/articles/exclusive-marex-plans-accept-bitcoin-153057893.html?.tsrc=rss)
+**1. Cathie Wood Invests $36.9 Million in Surging Stock**
+- 출처: Yahoo Finance | 발행: 05:11 KST
+- 요약: 캐시 우드의 ARK가 급등 종목에 3,690만 달러를 신규 투입, 위험보상 매력을 근거로 제시.
+- 투자 시사점: 유명 성장주 투자자의 자금 유입은 모멘텀·심리에 우호적. 편입 종목 지속 관찰 필요.
+- 감성: **positive**
+- 링크: https://finance.yahoo.com/markets/stocks/articles/cathie-wood-invests-36-9-201143798.html
 
 ---
 
-## 🔥 섹션 2. 오늘의 Hype 뉴스 TOP 5
+## 섹션 2. 오늘의 Hype 뉴스 TOP 5
 
-**1. 엔비디아, Wall Street에서 AI 인프라 위해 $500B 조달 추진** `positive`
-- **출처**: CNBC / BBC / Forbes / PitchBook · **발행**: 07:09 KST
-- **요약**: 엔비디아와 주요 월가 자산운용사들이 AI 인프라(데이터센터)에 최소 5,000억 달러를 동원하는 컨소시엄을 추진. Jensen Huang은 자사 GPU를 '투자 가능한 자산 클래스'로 정의하며 대출로 컴퓨트를 인수·상각할 수 있다고 주장. 다만 자사 칩 구매자를 스스로 파이낸싱하는 '순환 금융' 우려로 당일 NVDA 주가는 하락.
-- **왜 지금 hype?**: 오늘 최다 인용 뉴스 — AI CAPEX를 '자산 클래스화'하려는 시도로, 과잉투자 논쟁의 핵심.
-- [기사 링크](https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html)
+**1. Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are 'investable asset'**
+- 출처: CNBC | 발행: 07:09 KST
+- 요약: 월가 자산운용사들이 엔비디아 AI 프로젝트 자금으로 5,000억 달러 규모 파이낸싱을 준비. 젠슨 황은 GPU 컴퓨트를 "수익 창출 자산"으로 인수심사할 수 있다고 주장.
+- 왜 지금 hype: AI 인프라 자본조달이 새 국면으로, 컴퓨트를 담보·투자자산화하는 구조 전환의 상징.
+- 감성: **positive**
+- 링크: https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html
 
-**2. OpenAI, IPO 앞두고 $7B 직원 테더 오퍼 완료** `positive`
-- **출처**: CNBC / TechCrunch · **발행**: 07:15 KST
-- **요약**: OpenAI가 3월 1,220억 달러 펀딩 라운드 이후 진행해온 직원 대상 70억 달러 규모 구주 매출(테더 오퍼)을 마무리. 잠재적 IPO를 향한 발판으로 해석됨.
-- **왜 지금 hype?**: 세계 최대 AI 스타트업의 IPO 가능성이 구체화되며 AI 밸류에이션 벤치마크로 주목.
-- [기사 링크](https://www.cnbc.com/2026/08/10/openai-wraps-7-billion-share-sale-ahead-of-potential-ipo-.html)
+**2. Intel upsizes stock offering to $20 billion at $95 per share as AI demand accelerates**
+- 출처: CNBC | 발행: 16:17 KST
+- 요약: 인텔이 AI 수요 가속 속에 주식 발행 규모를 주당 95달러, 총 200억 달러로 상향. 대규모 인프라 투자 재원 확보 목적.
+- 왜 지금 hype: 반도체 대장주의 초대형 증자는 희석 부담과 AI 캐펙스 경쟁 심화를 동시에 신호.
+- 감성: **neutral**
+- 링크: https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html
 
-**3. 인텔, AI 수요 가속 속 $15B 유상증자 발표 — 주가 4% 하락** `negative`
-- **출처**: CNBC · **발행**: 05:01 KST
-- **요약**: 인텔이 AI 인프라 투자 재원 마련을 위해 150억 달러 규모 주식 발행을 발표. 희석 우려로 당일 주가가 약 4% 하락하며 나스닥에 부담.
-- **왜 지금 hype?**: 반도체 대장주의 대규모 증자는 AI 자본조달 경쟁 심화와 희석 리스크를 동시에 부각.
-- [기사 링크](https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html)
+**3. OpenAI wraps $7 billion share sale ahead of potential IPO**
+- 출처: CNBC / TechCrunch | 발행: 07:15 KST
+- 요약: 오픈AI가 70억 달러 규모 직원 지분 매각(tender offer)을 마무리, 3월 1,220억 달러 펀딩 이후 IPO 가능성에 무게. 
+- 왜 지금 hype: AI 대표주자의 상장 시나리오가 구체화되며 AI 밸류에이션·자금흐름 전반에 파급.
+- 감성: **positive**
+- 링크: https://www.cnbc.com/2026/08/10/openai-wraps-7-billion-share-sale-ahead-of-potential-ipo-.html
 
-**4. CrowdStrike·Palo Alto, Black Hat 이후 신고가 — AI 사이버 위협 부각** `positive`
-- **출처**: CNBC · **발행**: 06:43 KST
-- **요약**: 연례 Black Hat 컨퍼런스에서 AI 기반 공격 위협이 조명되며 AI 사이버보안 수요가 재확인. CrowdStrike·Palo Alto가 나란히 사상 최고가를 기록.
-- **왜 지금 hype?**: 'AI 공격 vs AI 방어' 테마가 사이버보안주 랠리를 촉발 — OpenAI Daybreak 확장 뉴스와 맞물림.
-- [기사 링크](https://www.cnbc.com/2026/08/10/crowdstrike-palo-alto-stock-black-hat.html)
+**4. CrowdStrike, Palo Alto hit records after Black Hat cyber conference illuminates rising AI threat**
+- 출처: CNBC | 발행: 06:43 KST
+- 요약: Black Hat 컨퍼런스가 AI 기반 사이버 위협 급증을 부각하며 AI 보안 수요를 재점화, 크라우드스트라이크·팔로알토가 사상 최고가.
+- 왜 지금 hype: AI 공격 증가가 사이버보안을 구조적 성장 테마로 재확인시키는 촉매.
+- 감성: **positive**
+- 링크: https://www.cnbc.com/2026/08/10/crowdstrike-palo-alto-stock-black-hat.html
 
-**5. 메타, 개인용 초지능 비전 담은 'Glimmer' AI 모델 공개** `neutral`
-- **출처**: TechCrunch / CNBC · **발행**: 01:20 KST
-- **요약**: 저커버그가 6,500단어 분량의 '개인 초지능(personal superintelligence)' 매니페스토를 발표하고, Meta가 오픈웨이트 'Muse Glimmer' 모델을 공개해 개인용 AI 어시스턴트 비전을 구체화.
-- **왜 지금 hype?**: 빅테크 AI 경쟁이 '개인용 AI'로 확장되는 전환점 — 다만 프라이버시·통제권 논쟁도 함께 촉발.
-- [기사 링크](https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/)
+**5. IonQ (IONQ) Stock Trades Up After Large Q2 Beat**
+- 출처: Yahoo Finance | 발행: 12:01 KST
+- 요약: 양자컴퓨팅 업체 아이온큐가 2분기 대규모 서프라이즈를 발표하며 장중 11% 급등. Pentagon 원자시계 등 실용화 기대도 부각.
+- 왜 지금 hype: 양자 섹터 실적 시즌에서 IonQ 호실적이 테마 전반 리레이팅을 견인.
+- 감성: **positive**
+- 링크: https://finance.yahoo.com/markets/stocks/articles/ionq-ionq-stock-trades-why-030122182.html
 
 ---
 
-*본 브리핑은 RSS 피드에서 자동 수집한 당일(KST) 발행 기사 기반이며, 투자 판단의 참고 자료입니다. 개별 종목 매매 권유가 아닙니다.*
+*본 브리핑은 RSS 피드(Yahoo Finance, CNBC, TechCrunch, Seeking Alpha, Google News 등) 기반 자동 수집·요약본입니다. 투자 판단의 참고 자료이며 투자 권유가 아닙니다.*
