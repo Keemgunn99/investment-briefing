@@ -1,148 +1,174 @@
-# 📈 데일리 투자 브리핑 — 2026-08-26 (KST)
+# 📈 데일리 투자 브리핑 — 2026-08-26 (화)
 
 > 업데이트: 2026-08-26 18:00 KST · 당일(KST) 발행 기사만 수집
 
 ---
 
-## 섹션 1. 보유 종목 뉴스
+## 📌 섹션 1. 보유 종목 뉴스
 
 ### IREN (iRen Ltd)
 
 **1. Why Is IREN (IREN) Drawing Attention After Its AI Cloud Milestones?**
 - 출처: Yahoo Finance · 06:06 KST
-- 요약: IREN이 텍사스 사이트에서 첫 Microsoft AI 클라우드 배포(Horizon 1)를 완료하며 초기 인도 마일스톤 달성.
-- 투자 시사점: 비트코인 채굴에서 AI 클라우드로의 사업 전환이 실체화되는 신호. MS향 매출 가시성 확보는 밸류에이션 재평가 요인.
+- 요약: IREN이 텍사스 사이트에서 마이크로소프트 AI 클라우드 첫 배포(Horizon 1)를 완료, 다년 파트너십의 초기 인도 마일스톤 달성.
+- 투자 시사점: BTC 채굴사에서 AI 클라우드 사업자로의 전환이 실물 매출로 가시화. 중장기 리레이팅 근거 강화.
 - 감성: **positive**
-- 링크: https://finance.yahoo.com/technology/ai/articles/why-iren-iren-drawing-attention-210642708.html
+- 🔗 https://finance.yahoo.com/technology/ai/articles/why-iren-iren-drawing-attention-210642708.html
 
 **2. Applied Digital and IREN Climb 6% as the Digital Infrastructure Bid Broadens Past Bitcoin**
-- 출처: 24/7 Wall St. · 03:30 KST
-- 요약: 하이퍼스케일러·GPU 고객 수요로 디지털 인프라주로의 순환매가 확산되며 IREN 6% 상승.
-- 투자 시사점: 채굴주가 아닌 'AI 컴퓨트 임대' 테마로 IREN이 재분류되는 흐름. 섹터 로테이션 수혜.
+- 출처: 247 Wall St. · 03:30 KST
+- 요약: 하이퍼스케일러·GPU 고객 수요로 디지털 인프라주 순환매 발생, IREN 6% 상승.
+- 투자 시사점: 비트코인 가격과 디커플링되며 AI 인프라 테마로 재평가되는 흐름.
 - 감성: **positive**
-- 링크: https://247wallst.com/investing/2026/08/25/applied-digital-and-iren-climb-6-as-the-digital-infrastructure-bid-broadens-past-bitcoin-core-scientific-gains-4/
+- 🔗 https://247wallst.com/investing/2026/08/25/applied-digital-and-iren-climb-6-as-the-digital-infrastructure-bid-broadens-past-bitcoin-core-scientific-gains-4/
 
-**3. Crypto Mining Stocks Rally as Bitcoin Hovers Around $80K: MARA Jumps 7%, TeraWulf and IREN Climb 5%**
-- 출처: 24/7 Wall St. · 00:10 KST
-- 요약: 비트코인이 수개월 만에 $80,000을 터치하며 채굴주 전반 급등, IREN 5% 상승.
-- 투자 시사점: BTC 가격 반등이 채굴 부문 마진·심리에 직접 호재. 다만 AI 전환 스토리 대비 변동성은 큼.
+**3. Crypto Mining Stocks Rally as Bitcoin Hovers Around $80K: TeraWulf and IREN Climb 5%**
+- 출처: 247 Wall St. · 00:10 KST
+- 요약: 비트코인 8만 달러 부근 랠리에 채굴주 동반 강세, IREN 5% 상승.
+- 투자 시사점: BTC 가격 회복이 채굴 부문 심리에 우호적이나, 상승 주도력은 AI 인프라 쪽에 집중.
 - 감성: **positive**
-- 링크: https://247wallst.com/investing/2026/08/25/crypto-mining-stocks-rally-as-bitcoin-hovers-around-80k-mara-jumps-7-terawulf-and-iren-climb-5/
+- 🔗 https://247wallst.com/investing/2026/08/25/crypto-mining-stocks-rally-as-bitcoin-hovers-around-80k-mara-jumps-7-terawulf-and-iren-climb-5/
+
+**4. History Has Changed My Mind on These Millionaire-Maker AI Stocks (At Least for Now)**
+- 출처: Motley Fool · 13:20 KST
+- 요약: 필자가 CoreWeave·IREN을 지금은 매수보다 관심종목(watch list)에 두라며 기존 강세 콜을 보류.
+- 투자 시사점: 급등 후 밸류에이션 부담 경계론. 단기 조정 가능성 유의.
+- 감성: **neutral**
+- 🔗 https://www.fool.com/investing/2026/08/26/history-has-changed-my-mind-on-these-millionaire-m/
+
+---
 
 ### Infleqtion (INFQ)
 
 **1. How Asia Is Becoming Quantum Computing's Next Battleground**
 - 출처: Yahoo Finance · 07:15 KST
-- 요약: Quantinuum, IQM, Infleqtion 등 최근 상장한 양자 기업들이 아시아 시장 내 입지를 꾸준히 확대 중.
-- 투자 시사점: Infleqtion의 글로벌 확장 언급은 긍정적이나 종목 단독 촉매는 아님. 양자 섹터 전반 관심 확대의 맥락.
+- 요약: 최근 상장한 양자 기업(Quantinuum, IQM, Infleqtion 등)이 아시아 지역 진출을 확대 중.
+- 투자 시사점: 글로벌 양자 시장 확장 국면에서 Infleqtion의 지역 커버리지 확대는 장기 성장 스토리에 부합.
 - 감성: **neutral**
-- 링크: https://finance.yahoo.com/m/ee5ba452-8851-3f90-b0f4-17db54f46703/how-asia-is-becoming-quantum.html
+- 🔗 https://finance.yahoo.com/m/ee5ba452-8851-3f90-b0f4-17db54f46703/how-asia-is-becoming-quantum.html
+
+---
 
 ### CCXI (Agility Robotics)
 
 오늘 주요 뉴스 없음
 
-### Tesla (TSLA)
+---
+
+### TSLA (Tesla)
 
 **1. Nevada Just Raised Tesla's Las Vegas Robotaxi Cap From 10 Vehicles to 5,000**
-- 출처: The Motley Fool · 05:01 KST
-- 요약: 네바다 규제당국이 라스베이거스 로보택시 허용 대수를 10대에서 5,000대로 500배 상향.
-- 투자 시사점: 로보택시 상업화 규모 확대의 규제 청신호. 실제 배치 실행력이 관건이나 성장 옵션 가치 확대.
+- 출처: Motley Fool · 05:01 KST
+- 요약: 네바다 규제당국이 라스베이거스 로보택시 허용 대수를 10대→5,000대로 500배 확대. 실제 배치가 관건.
+- 투자 시사점: 로보택시 상업화 규제 장벽 완화. 실행력 입증 시 밸류에이션 상방 재료.
 - 감성: **positive**
-- 링크: https://www.fool.com/investing/2026/08/25/nevada-just-raised-tesla-s-las-vegas-robotaxi-cap-from-10-vehicles-to-5-000/
+- 🔗 https://www.fool.com/investing/2026/08/25/nevada-just-raised-tesla-s-las-vegas-robotaxi-cap-from-10-vehicles-to-5-000/
 
-**2. Tesla Rises as 2.98 Million-Car Recall Tests China**
+**2. TSLA Stock Races Past NVDA, GOOG In August Rally: Musk's TeraFab And Semi Bets Shift Into High Gear**
+- 출처: Stocktwits · 12:19 KST
+- 요약: 8월 랠리로 TSLA가 NVDA·GOOG 수익률 추월. 네바다 세미 공장 9/24 가동(연 5만 대 규모) 예정.
+- 투자 시사점: 세미트럭·칩 팹 등 신규 성장축 기대가 주가 모멘텀 견인.
+- 감성: **positive**
+- 🔗 https://stocktwits.com/news-articles/markets/equity/tsla-nvda-goog-elon-musk-terafab-semi-high-gear/cZYNiHqRJor
+
+**3. Tesla Rises as 2.98 Million-Car Recall Tests China**
 - 출처: Yahoo Finance · 04:45 KST
-- 요약: 298만 대 리콜에도 소프트웨어 방식 수리로 비용 억제 기대, 주가는 오히려 상승.
-- 투자 시사점: 대규모 리콜이지만 OTA 수리로 비용 리스크 제한적. 중국 시장 반응이 변수.
+- 요약: 약 298만 대 리콜에도 주가 상승. 소프트웨어 OTA로 수리비 억제 가능성.
+- 투자 시사점: 리콜 규모는 크나 비용 영향 제한적. 중국 시장 대응이 변수.
 - 감성: **neutral**
-- 링크: https://finance.yahoo.com/markets/stocks/articles/tesla-rises-2-98-million-194544517.html
+- 🔗 https://finance.yahoo.com/markets/stocks/articles/tesla-rises-2-98-million-194544517.html
 
-**3. Elon Musk's Tesla Has 'Massive Advantage' Before Selling Optimus, Says Analyst — Prediction Market Weighs 2026 Launch Odds**
+**4. Elon Musk's Tesla Has 'Massive Advantage' Before Selling Optimus, Says Analyst**
 - 출처: Yahoo Finance · 02:31 KST
-- 요약: 애널리스트는 옵티머스 상용화에서 테슬라의 우위를 강조했으나, 예측시장은 2026년 출시 확률을 하향.
-- 투자 시사점: 휴머노이드 장기 잠재력은 유효하나 단기 상용화 기대는 후퇴. 기대치 관리 필요.
+- 요약: 애널리스트는 옵티머스 상용화에 테슬라가 큰 강점이 있다고 평가. 다만 예측시장 베터들은 2026년 출시 확률을 낮춤.
+- 투자 시사점: 휴머노이드 장기 옵션 가치 유효하나, 단기 상용화 기대는 후퇴.
 - 감성: **neutral**
-- 링크: https://finance.yahoo.com/technology/ai/articles/elon-musks-tesla-massive-advantage-173116519.html
+- 🔗 https://finance.yahoo.com/technology/ai/articles/elon-musks-tesla-massive-advantage-173116519.html
 
-**4. Tesla's Cybertruck Base Version Hits $74,990 — Nearly 2X Its 2019 Promised Price**
-- 출처: Stocktwits · 05:52 KST
-- 요약: 사이버트럭 가격 인상, 기본형이 2019년 약속가($39,900)의 약 2배 수준으로.
-- 투자 시사점: 수요 부진 속 가격 인상은 원가 압박 반영. 판매 볼륨 측면에서는 부담 요인.
+**5. Tesla Raises Prices on Cybertruck Almost No One Will Buy**
+- 출처: 247 Wall St. · 00:20 KST
+- 요약: 사이버트럭 기본형 가격을 $74,990으로 인상(2019년 약속가의 약 2배). 수요보다 비용 논리가 앞선 결정이라는 비판.
+- 투자 시사점: 사이버트럭 판매 부진 지속 시 마진·브랜드에 부담. 실적 기여도는 제한적.
 - 감성: **negative**
-- 링크: https://stocktwits.com/news-articles/markets/equity/tesla-s-cybertruck-base-version-hits-74-990-nearly-2-x-its-2019-promised-price/cZYkCspRJoL
+- 🔗 https://247wallst.com/investing/2026/08/25/tesla-raises-prices-on-cybertruck-almost-no-one-will-buy/
 
-### Coinbase (COIN)
+---
 
-**1. Goldman Sachs Reiterates Buy Ratings on Coinbase and Robinhood (가격목표 상향)**
-- 출처: The Street / Cryptoprowl · 07:35 KST
-- 요약: 골드만삭스가 코인베이스·로빈후드에 매수 의견 유지하며 목표주가 상향.
-- 투자 시사점: 대형 IB의 우호적 커버리지는 기관 자금 유입 촉매. 크립토 랠리와 맞물려 심리 개선.
+### COIN (Coinbase)
+
+**1. Coinbase CLARITY Act: Armstrong Expects 60+ Votes Despite Kalshi 22% Odds**
+- 출처: Cryptonews · 16:55 KST
+- 요약: 브라이언 암스트롱 CEO가 9월 중순 CLARITY 법안 상원 통과(60표+)를 자신. 예측시장 Kalshi는 통과 확률 22%로 낮게 봄.
+- 투자 시사점: 크립토 규제 명확화는 COIN에 구조적 호재. 다만 입법 불확실성 공존.
 - 감성: **positive**
-- 링크: https://www.thestreet.com/crypto/markets/157-year-old-wall-street-giant-has-a-new-call-on-coinbase-and-robinhood
+- 🔗 https://cryptonews.com/news/clarity-act-senate-vote-odds/
 
-**2. Coinbase Stock Pops on a Bitcoin Short Squeeze. How to Play COIN Here.**
+**2. 157-Year-Old Wall Street Giant Has a New Call on Coinbase and Robinhood**
+- 출처: TheStreet · 07:35 KST
+- 요약: 골드만삭스가 코인베이스·로빈후드 목표주가 상향, 매수 의견 유지.
+- 투자 시사점: 대형 IB의 긍정적 커버리지가 기관 수급에 우호적.
+- 감성: **positive**
+- 🔗 https://www.thestreet.com/crypto/markets/157-year-old-wall-street-giant-has-a-new-call-on-coinbase-and-robinhood
+
+**3. Coinbase Stock Surges as Bitcoin Rallied to $80,000: How Tight Is the Link?**
+- 출처: BeInCrypto · 13:35 KST
+- 요약: 비트코인 8만 달러 근접에 COIN 동반 급등, BTC 상관관계가 다시 부각.
+- 투자 시사점: BTC 가격 민감도 높아 크립토 랠리의 고베타 플레이. 변동성 양방향 유의.
+- 감성: **positive**
+- 🔗 https://beincrypto.com/coinbase-stock-bitcoin-price-correlation/
+
+**4. Coinbase Stock Pops on a Bitcoin Short Squeeze. How to Play COIN Here.**
 - 출처: Barchart · 03:19 KST
-- 요약: 비트코인 숏스퀴즈 랠리로 코인베이스 주가 급등.
-- 투자 시사점: BTC 가격·거래대금 회복은 COIN 수수료 매출에 직결. 단기 모멘텀 강화.
+- 요약: 지난주 비트코인 숏스퀴즈 랠리에 COIN 급등.
+- 투자 시사점: 단기 숏커버링성 상승, 추격 매수보다 변동성 관리 관점 접근.
 - 감성: **positive**
-- 링크: https://www.barchart.com/story/news/4028491/coinbase-stock-pops-on-a-bitcoin-short-squeeze-how-to-play-coin-here
-
-**3. SoFi Rises 3% as the Stablecoin Trade Pulls Fintech Into the Crypto Bid, Coinbase Climbs 5%**
-- 출처: 24/7 Wall St. · 03:27 KST
-- 요약: 스테이블코인 테마가 핀테크로 확산되며 코인베이스 5% 상승.
-- 투자 시사점: 스테이블코인·크립토 테마 확산의 핵심 수혜주로 COIN 재부각.
-- 감성: **positive**
-- 링크: https://247wallst.com/investing/2026/08/25/sofi-rises-3-as-the-stablecoin-trade-pulls-fintech-into-the-crypto-bid-coinbase-climbs-5/
-
-### Circle (CRCL)
-
-**1. Ondo Expands Perps Collateral as Tokenized Stocks Gain a Second Use**
-- 출처: BeInCrypto · 09:15 KST
-- 요약: Ondo가 토큰화 주식을 레버리지 거래 담보로 활용하도록 확대, 토큰화 자산의 두 번째 용례 등장.
-- 투자 시사점: Circle 직접 뉴스는 아니나 토큰화·스테이블코인 생태계 확장 맥락으로 간접 관련. 종목 촉매로는 약함.
-- 감성: **neutral**
-- 링크: https://beincrypto.com/tokenized-stocks-leveraged-trading-collateral/
+- 🔗 https://www.barchart.com/story/news/4028491/coinbase-stock-pops-on-a-bitcoin-short-squeeze-how-to-play-coin-here
 
 ---
 
-## 섹션 2. 오늘의 Hype 뉴스 TOP 5
+### CRCL (Circle)
 
-**1. 엔비디아 실적 발표 D-Day — 시장은 관망 속 반등 마감**
-- 출처: Yahoo Finance / Investor's Business Daily · 09:55 KST
-- 요약: 8/26(현지) 장 마감 후 엔비디아 실적 발표를 앞두고 화·수 증시는 반도체 주도로 소폭 상승 마감. 인플레이션 지표와 겹쳐 관망세.
-- 왜 지금 hype인가: AI 랠리 전체의 방향을 좌우할 분기 최대 이벤트로, 반도체·AI 인프라주 전반의 단기 변동성 촉발.
+오늘 주요 뉴스 없음
+
+---
+
+## 🔥 섹션 2. 오늘의 Hype 뉴스 TOP 5
+
+**1. Nvidia Earnings Give Investors a Barometer for State of AI Trade**
+- 출처: Yahoo Finance (Bloomberg) · 16:48 KST
+- 요약: 월가가 오늘(수) 장마감 후 엔비디아 실적에 주목. 숫자 자체보다 AI 트레이드 전반의 방향타로서의 의미가 크다는 평가. BlackRock 등은 여전히 AI 낙관론 유지.
+- 왜 지금 hype: 오늘 최대 시장 이벤트 — 엔비디아 실적이 반도체·AI 섹터 전체 심리를 좌우.
 - 감성: **neutral**
-- 링크: https://finance.yahoo.com/m/a1a5cb94-36b5-3bbd-869f-362442258823/dow-jones-futures-fall-with.html
+- 🔗 https://finance.yahoo.com/technology/ai/articles/nvidia-earnings-give-investors-a-barometer-for-state-of-ai-trade-074856874.html
 
-**2. 비트코인 $80K 돌파 — 부양(debasement) 트레이드 재점화**
-- 출처: Yahoo Finance (Bloomberg) · 04:53 KST
-- 요약: 비트코인이 5월 중순 이후 처음으로 $80,000을 상회. 재무부 매입발 유동성과 '통화가치 하락 헤지' 수요가 크립토·금·구리를 동반 견인.
-- 왜 지금 hype인가: 크립토 심리 반전의 분수령으로, 보유 종목 COIN·IREN을 포함한 크립토 섹터 전반에 즉각적 호재.
+**2. The 'Debasement Trade' Returns After Bessent Bond Maneuver — Crypto and Gold Are Back in Style**
+- 출처: CNBC · 00:16 KST
+- 요약: 미 국채금리 억제 시도(베센트 재무장관)로 통화가치 하락 우려가 재점화되며 비트코인·금 동반 강세. 비트코인은 8만 달러를 시험.
+- 왜 지금 hype: 매크로(국채·달러) 요인이 크립토·금 랠리를 촉발 — 보유 크립토주(COIN)와 직결.
 - 감성: **positive**
-- 링크: https://finance.yahoo.com/video/bitcoin-tops-80k-bullish-mood-195312930.html
+- 🔗 https://www.cnbc.com/2026/08/25/debasement-trade-debt-gold-bitcoin-dollar.html
 
-**3. OpenAI 데이터센터 총괄 Chris Malone 이탈 — 경영진 연쇄 이탈**
-- 출처: CNBC / TechCrunch · 06:26 KST
-- 요약: OpenAI 데이터센터 책임자 Chris Malone이 퇴사, 인프라 조직 개편 속 고위 임원 연쇄 이탈이 이어짐.
-- 왜 지금 hype인가: AI 인프라 확장 경쟁이 격화되는 시점에 핵심 인력 이탈은 데이터센터·전력·GPU 밸류체인 리스크 신호.
-- 감성: **negative**
-- 링크: https://www.cnbc.com/2026/08/25/openais-head-of-data-centers-chris-malone-is-out-in-latest-exec-exit.html
-
-**4. SpaceX, 루이지애나에 $1,000억 규모 제2 우주기지 'Starbase, LA' 건설**
+**3. SpaceX Plans to Build a $100 Billion Spaceport in Louisiana**
 - 출처: CNBC / TechCrunch · 07:09 KST
-- 요약: SpaceX가 루이지애나 버밀리언 패리시에 연간 수천 회 발사를 지원할 1,000억 달러 규모 스페이스포트 건설 계획 발표, 2027년 착공.
-- 왜 지금 hype인가: 초대형 인프라 투자로 우주·방산·소재 밸류체인에 파급. 일론 머스크 관련주(TSLA 포함) 심리에도 영향.
+- 요약: 스페이스X가 루이지애나 버밀리언 패리시에 두 번째 'Starbase'를 조성, 연간 수천 회 발사를 지원할 계획. 2027년 착공, 2029년 스타십 발사 목표.
+- 왜 지금 hype: 대형 인프라 투자로 우주·방산 테마 및 관련 밸류체인에 파급.
 - 감성: **positive**
-- 링크: https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html
+- 🔗 https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html
 
-**5. 양자 ETF 2026년 +40%, 운용자산 $60억 돌파 — 액티브 대비 초과성과**
-- 출처: 24/7 Wall St. · 05:33 KST
-- 요약: Defiance Quantum ETF가 올해 40% 상승하며 60억 달러를 넘어섰고, 스톡피커 대비 우수한 성과 지속.
-- 왜 지금 hype인가: 양자컴퓨팅 테마로의 자금 유입이 가속. 보유 종목 INFQ 등 순수 양자주 재평가 기대.
+**4. Waymo to Launch Driverless Rides in Germany in 2027**
+- 출처: CNBC · 06:47 KST
+- 요약: 웨이모가 2027년 독일에서 무인 로보택시 운행을 시작, 미국 외 세 번째 시장 진입(영국·일본에 이어).
+- 왜 지금 hype: 자율주행 상업화 확산 가속 — 테슬라 로보택시 경쟁 구도와 맞물려 주목.
 - 감성: **positive**
-- 링크: https://247wallst.com/investing/2026/08/25/that-quantum-fund-is-up-40-in-2026-and-just-crossed-6-billion-the-field-keeps-beating-the-stock-pickers/
+- 🔗 https://www.cnbc.com/2026/08/25/waymo-robotaxi-germany-2027.html
+
+**5. OpenAI Loses a Top Data Center Exec as High-Profile Departures Continue**
+- 출처: TechCrunch / CNBC · 09:06 KST
+- 요약: 오픈AI 데이터센터 총괄 Chris Malone이 퇴사, 인프라 조직 개편 속 고위 임원 이탈이 이어짐.
+- 왜 지금 hype: AI 인프라 확장 경쟁의 핵심 인력 이슈 — 데이터센터·전력 밸류체인 리스크 신호.
+- 감성: **neutral**
+- 🔗 https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/
 
 ---
 
-_본 브리핑은 RSS 피드 기반 자동 수집·요약 결과이며 투자 자문이 아닙니다._
+*본 브리핑은 RSS 당일 기사 자동 수집·요약본이며 투자 판단의 참고자료입니다.*
