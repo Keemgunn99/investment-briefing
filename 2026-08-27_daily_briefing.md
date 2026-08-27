@@ -1,144 +1,167 @@
 # 📊 데일리 투자 브리핑 — 2026-08-27 (목)
 
-> 수집 기준: 2026-08-27 KST 당일 발행 기사 / RSS 파싱
-> 업데이트: 18:00 KST
+> 업데이트: 2026-08-27 18:10 KST · 당일(KST) 발행 기사만 수집
 
 ---
 
 ## 섹션 1. 보유 종목 뉴스
 
-### 🔹 IREN (AI 인프라 / 비트코인 마이닝)
+### IREN (AI 인프라 / 비트코인 마이닝)
 
-**1. IREN to Report Q4 Earnings: Should You Buy, Sell or Hold the Stock?**
-- 출처: Yahoo Finance / 발행: 00:35 KST
-- 요약: AI 클라우드 성장과 자금조달 강화가 긍정적이나, 비트코인 마이닝 매출 감소와 감액손실이 fiscal Q4 실적에 단기 부담으로 작용.
-- 투자 시사점: 목요일(현지시각) Q4 실적 발표가 핵심 변곡점. AI 클라우드 전환 속도가 마이닝 부진을 상쇄하는지 확인 필요.
-- 감성: neutral
+**1. IREN Slides 6% as Traders De-Risk Before Q4 Earnings, Core Scientific Declines 4%**
+- 출처: 247 Wall St. · 03:09 KST
+- 요약: Q4 실적 발표(목요일)와 NVIDIA 실적을 앞두고 트레이더들이 리스크를 줄이며 IREN 주가 6% 하락.
+- 투자 시사점: 실적 발표 직전 변동성 확대 구간. 전날 랠리 추격매수한 투자자는 단기 부담. 실적 결과가 방향타.
+- 감성: **negative**
+- 🔗 https://247wallst.com/investing/2026/08/26/iren-slides-6-as-traders-de-risk-before-q4-earnings-core-scientific-declines-4/
 
-**2. IREN Slides 6% as Traders De-Risk Before Q4 Earnings, Core Scientific Declines 4%**
-- 출처: 24/7 Wall St. / 발행: 03:09 KST
-- 요약: NVIDIA·IREN 실적 발표를 앞두고 IREN 주가가 6% 하락하며 리스크 회피 매물 출회. 동종업체 Core Scientific도 4% 하락.
-- 투자 시사점: 실적 발표 전 변동성 확대 구간. 전일 반등 매수자들은 단기 손실 노출. 실적 결과에 따라 급등락 가능.
-- 감성: negative
+**2. IREN to Report Q4 Earnings: Should You Buy, Sell or Hold the Stock?**
+- 출처: Yahoo Finance · 00:35 KST
+- 요약: AI 클라우드 성장과 강화된 자금 조달이 긍정적이나, 비트코인 마이닝 매출 감소와 감액 우려가 Q4 실적에 부담.
+- 투자 시사점: AI 클라우드 전환 스토리 vs 마이닝 수익성 약화의 균형이 핵심. 실적에서 AI 부문 가이던스 주목.
+- 감성: **neutral**
+- 🔗 https://finance.yahoo.com/markets/stocks/articles/iren-report-q4-earnings-buy-153500923.html
 
-**3. Nvidia Eyes Perplexity AI as Earnings Approach. How NVDA Stock Investors Should Prepare.**
-- 출처: Barchart / 발행: 02:52 KST
-- 요약: NVIDIA 실적을 앞둔 분석 기사로, IREN의 NVIDIA GPU 의존 AI 클라우드 사업 관련 간접 언급.
-- 투자 시사점: NVIDIA 실적 호조는 GPU 클라우드 수요 강세를 시사, IREN AI 인프라 사업에 우호적 배경.
-- 감성: neutral
+**3. CRWV, NBIS, IREN Stocks Jump Overnight On Nvidia's Blowout Q2 — But Palo Alto CEO Predicts Neocloud Price Crash Is Coming**
+- 출처: Stocktwits · 11:28 KST
+- 요약: NVIDIA의 서프라이즈 Q2 실적에 네오클라우드주(IREN 포함) 급등. 다만 NVIDIA가 자금 조달 지원을 위해 최소 매출 보장을 제공하며 렌탈 매출 지분을 확보 중.
+- 투자 시사점: 단기 상방 촉매(NVDA 실적)이나, 네오클라우드 가격 경쟁 심화 경고는 중장기 마진 리스크로 주시 필요.
+- 감성: **positive**
+- 🔗 https://stocktwits.com/news-articles/markets/equity/crwv-nbis-iren-nvidia-q2-palo-alto-ceo-neocloud-crash/cZY8NVHRJpX
 
-### 🔹 Infleqtion (INFQ, 양자컴퓨팅)
+### Infleqtion (INFQ / 양자컴퓨팅)
 
 오늘 주요 뉴스 없음
 
-### 🔹 CCXI (Agility Robotics, 휴머노이드 로봇 / SPAC 상장)
+### CCXI (Agility Robotics / 휴머노이드 로봇 SPAC)
 
 **1. Agility Robotics take pragmatic path to SPAC, reviving Oregon tech**
-- 출처: The Business Journals / 발행: 06:47 KST
-- 요약: Agility Robotics가 Churchill Capital Corp XI(CCXI) SPAC 합병을 통한 실용적 상장 경로를 택했으며, 오리건주 테크 생태계 부활의 상징으로 조명됨.
-- 투자 시사점: SPAC 합병 진행 상황이 순조로움을 시사. 합병 완료 시 티커 AGLT 전환 예정 — 상장 일정·PIPE 조건 추적 필요.
-- 감성: positive
+- 출처: The Business Journals · 06:47 KST
+- 요약: Agility Robotics가 SPAC(Churchill Capital Corp XI, CCXI)을 통한 실용적 상장 경로를 택하며 오리건 지역 기술 산업 부흥의 상징으로 부각.
+- 투자 시사점: 합병 완료 시 티커 AGLT 전환 예정. 휴머노이드(Digit) 상장 진행 상황과 PIPE·자금 조달 조건 확인 필요.
+- 감성: **positive**
+- 🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxQYjdXcTFnbFo1RnFZQjI3N3RmWG9iZjB2Qi00UjRhajdYVzdZUHRoY0txbm5MclBPc2NDeURUSmdnUnpzemE4M01aRml5UUtGcXNtMFZnMlJ5NVRnb1FUeEJtWmg1NGVyb2lWOVlYMXpQSFFjWDdsNEZnakdXcW5BZUVfOGUzdUhiSThKOUhn?oc=5
 
-### 🔹 TSLA (전기차 / 자율주행 / 로보틱스)
+### TSLA (전기차 / 자율주행 / 로보틱스)
 
-**1. Tesla Reportedly Says China FSD Work Continues After Website Omission Sparks Shutdown Claims — TSLA Stock Slips**
-- 출처: Stocktwits / 발행: 03:56 KST
-- 요약: 웹사이트 표기 누락으로 상하이 데이터센터 중단설이 돌자, 테슬라 중국팀은 시설이 정상 가동 중이며 관련 채용도 가속화되고 있다고 해명.
-- 투자 시사점: 중국 FSD 사업 불확실성 노이즈로 주가 소폭 약세. 실질적 중단은 아니나 중국 자율주행 규제·진척도 모니터링 필요.
-- 감성: neutral
+**1. Elon Musk's Tesla Hikes Cybertruck Prices by More Than 7% Despite Sluggish Sales**
+- 출처: Yahoo Finance (Bloomberg) · 09:31 KST
+- 요약: 테슬라가 부진한 판매에도 미국 사이버트럭 가격을 트림별 최대 $5,000(7%+) 인상.
+- 투자 시사점: 대당 마진 방어 목적이나, 이미 취약한 수요를 더 위축시킬 리스크. 판매량 회복 시그널 확인 필요.
+- 감성: **neutral**
+- 🔗 https://finance.yahoo.com/markets/stocks/articles/elon-musks-tesla-hikes-cybertruck-003108332.html
 
-**2. Tesla Just Lost Its Top Chip Engineer to Another Firm**
-- 출처: Barchart / 발행: 03:33 KST
-- 요약: 테슬라가 AI 하드웨어 설계 리더 Shishuang Sun을 DensityAI(전 Dojo팀 출신 창업)에 빼앗김. 인재 이탈이 부각됨.
-- 투자 시사점: Dojo/AI 칩 인재 유출은 자율주행·로보틱스 역량에 부정적 신호이나, 기사도 "관리 가능한 수준"으로 평가.
-- 감성: negative
+**2. Tesla Reportedly Says China FSD Work Continues After Website Omission Sparks Shutdown Claims — TSLA Stock Slips**
+- 출처: Stocktwits · 03:56 KST
+- 요약: 웹사이트 문구 삭제로 中 FSD 사업 중단설이 돌자 테슬라가 상하이 데이터센터 정상 가동·채용 확대 중이라고 반박, 주가는 소폭 하락.
+- 투자 시사점: 중국 FSD 승인은 성장 핵심 변수. 노이즈성 뉴스지만 규제·현지화 진행 상황 지속 모니터링.
+- 감성: **neutral**
+- 🔗 https://stocktwits.com/news-articles/markets/equity/tesla-reportedly-says-china-fsd-work-continues-after-website-omission-sparks-shutdown-claims-tsla-stock-slips/cZYV2uARJpR
 
-**3. Tesla's Cybertruck Hike Shrinks Its Own Upgrade Ladder**
-- 출처: Yahoo Finance / 발행: 03:17 KST
-- 요약: 사이버트럭 가격 인상으로 대당 수익성은 방어되나, 이미 취약한 수요에 추가 부담.
-- 투자 시사점: 가격 정책이 마진과 판매량의 트레이드오프. 수요 둔화 구간에서 볼륨 리스크 확대.
-- 감성: negative
+**3. Tesla Just Lost Its Top Chip Engineer to Another Firm. Consider It a Manageable Setback for TSLA Stock.**
+- 출처: Barchart · 03:33 KST
+- 요약: 테슬라가 선임 AI 하드웨어 설계 리더 Shishuang Sun을 前 Dojo 팀원들이 세운 스타트업 DensityAI에 뺏김.
+- 투자 시사점: Dojo/자체 실리콘 인재 유출은 자율주행 로드맵에 부담. 단기 영향은 제한적이나 인재 이탈 추세 주시.
+- 감성: **negative**
+- 🔗 https://www.barchart.com/story/news/4128407/tesla-just-lost-its-top-chip-engineer-to-another-firm-consider-it-a-manageable-setback-for-tsla-stock
 
-**4. Tesla quietly kills a product homeowners once paid a premium for (Solar Roof)**
-- 출처: TheStreet / 발행: 09:03 KST
-- 요약: 테슬라가 머스크의 대표 홈 에너지 제품인 솔라루프 타일을 조용히 단종.
-- 투자 시사점: 에너지 사업 포트폴리오 재편 신호. 수익성 낮은 제품 정리로 해석 가능하나 성장 서사엔 소폭 부정적.
-- 감성: neutral
+**4. Tesla quietly kills a product homeowners once paid a premium for**
+- 출처: TheStreet · 09:03 KST
+- 요약: 테슬라가 태양광 지붕 타일(Solar Roof) 제품을 조용히 단종, 머스크의 주택 에너지 베팅 중 하나를 접음.
+- 투자 시사점: 에너지 부문 제품 정리로 핵심(전기차·로봇·에너지 저장)에 집중하는 시그널. 실적 영향은 미미.
+- 감성: **neutral**
+- 🔗 https://www.thestreet.com/investing/tesla-tsla-discontinues-solar-roof-tiles
 
-### 🔹 COIN (Coinbase, 크립토 거래소)
+### COIN (Coinbase / 크립토 거래소)
 
-**1. Circle, Coinbase Stocks Slide As US Banks Step Up Stablecoin Push Ahead Of CLARITY Act**
-- 출처: Stocktwits / 발행: 02:09 KST
-- 요약: 미 은행권이 CLARITY Act를 앞두고 토큰화 예금·스테이블코인·자동결제 네트워크 구축에 나서면서 Circle·Coinbase 주가 하락.
-- 투자 시사점: 전통 은행의 스테이블코인 진출은 경쟁 심화 우려. 규제 정비 이후 은행권 진입이 크립토 순수 플레이어에 구조적 리스크.
-- 감성: negative
+**1. Coinbase Taps Chainlink to Power Tokenized Stocks on Base**
+- 출처: Yahoo Finance · 02:45 KST
+- 요약: 코인베이스가 자체 체인 Base 상의 토큰화 주식에 Chainlink 가격 데이터를 활용, 전통 증권과 온체인 금융을 연결.
+- 투자 시사점: 토큰화(RWA) 사업 확장 긍정적. Base 생태계 활성화 및 신규 매출원 기대.
+- 감성: **positive**
+- 🔗 https://finance.yahoo.com/markets/crypto/articles/coinbase-taps-chainlink-power-tokenized-174500306.html
 
-**2. Coinbase Taps Chainlink to Power Tokenized Stocks on Base**
-- 출처: Yahoo Finance / 발행: 02:45 KST
-- 요약: Coinbase가 Chainlink 가격 데이터를 활용해 자사 Base 체인에서 토큰화 주식을 지원, 전통 증권과 온체인 금융을 연결.
-- 투자 시사점: RWA(실물자산 토큰화) 확장 전략으로 신규 수익원 기대. Base 생태계 강화는 중장기 긍정적.
-- 감성: positive
+**2. Circle, Coinbase Stocks Slide As US Banks Step Up Stablecoin Push Ahead Of CLARITY Act**
+- 출처: Stocktwits · 02:09 KST
+- 요약: CLARITY Act를 앞두고 美 은행들이 토큰화 예금·스테이블코인 자체 네트워크 구축에 나서며 코인베이스·서클 주가 하락.
+- 투자 시사점: 은행권의 스테이블코인 진입은 경쟁 심화 리스크. USDC 생태계 지분(코인베이스)에도 간접 부담.
+- 감성: **negative**
+- 🔗 https://stocktwits.com/news-articles/markets/equity/circle-coinbase-stocks-slide-us-banks-stablecoin-clarity-act/cZYVRGwRJYw
 
 **3. Better Opens Crypto-Backed Mortgages to Coinbase One Members**
-- 출처: CryptoProwl / 발행: 02:57 KST
-- 요약: Better Mortgage와 Coinbase가 토큰 담보 컨포밍 모기지를 일반 출시, Coinbase One 회원에게 개방.
-- 투자 시사점: 크립토 담보 금융상품 확대로 Coinbase One 구독 가치 상승. 생태계 록인 강화.
-- 감성: positive
+- 출처: CryptoProwl · 02:57 KST
+- 요약: Better Mortgage가 토큰 담보 컨포밍 모기지를 Coinbase One 회원 대상 정식 출시.
+- 투자 시사점: 코인베이스 구독(One) 부가서비스 확장으로 사용자 락인·수수료 다각화 긍정적.
+- 감성: **positive**
+- 🔗 https://www.cryptoprowl.com/releases/better-opens-crypto-backed-mortgages-to-coinbase-one-members-6546
 
-### 🔹 CRCL (Circle, USDC 스테이블코인)
+### CRCL (Circle / USDC 스테이블코인)
 
 **1. Circle Internet stock falls after banks eye stablecoin launch**
-- 출처: Yahoo Finance / 발행: 00:44 KST
-- 요약: WSJ 보도로 은행권의 스테이블코인 출시 검토가 알려지며 Circle(CRCL) 주가 4% 하락.
-- 투자 시사점: 은행권 진입은 USDC 점유율 경쟁 심화 우려. 스테이블코인 시장 확대 vs. 경쟁 격화의 양면성.
-- 감성: negative
+- 출처: Yahoo Finance (Investing.com) · 00:44 KST
+- 요약: 은행들이 자체 스테이블코인 출시를 검토 중이라는 WSJ 보도에 서클 주가 4% 하락.
+- 투자 시사점: 은행권 진입은 USDC의 최대 경쟁 위협. 규제(CLARITY Act) 향방과 은행 컨소시엄 진행 상황 핵심.
+- 감성: **negative**
+- 🔗 https://finance.yahoo.com/markets/crypto/articles/circle-internet-stock-falls-banks-154408567.html
 
-**2. Cathie Wood bets on 'disrupter' stock with bullish analyst call**
-- 출처: TheStreet / 발행: 02:15 KST
-- 요약: Cathie Wood가 CRCL을 테크 디스럽션의 "핵심 수혜주"로 지목하며 강세 베팅.
-- 투자 시사점: 기관 강세 콜은 하락 구간에서 심리적 지지. 스테이블코인 성장 서사의 장기 낙관론 반영.
-- 감성: positive
+**2. Aptos adds Circle's CCTP V2 for seconds-fast USDC transfers**
+- 출처: TheStreet · 04:09 KST
+- 요약: Aptos가 서클의 CCTP V2를 도입, 래핑 없이 번-앤-민트 방식으로 네이티브 USDC를 수초 내 전송 지원.
+- 투자 시사점: USDC 멀티체인 확장·유틸리티 강화. 네트워크 채택 확대는 서클의 핵심 성장 동력.
+- 감성: **positive**
+- 🔗 https://www.thestreet.com/crypto/markets/aptos-adds-circles-cctp-v2-for-seconds-fast-usdc-transfers
 
-**3. Aptos adds Circle's CCTP V2 for seconds-fast USDC transfers**
-- 출처: TheStreet / 발행: 04:09 KST
-- 요약: Aptos가 Circle CCTP V2를 도입, 래핑 자산 없이 초 단위 네이티브 USDC 전송 지원.
-- 투자 시사점: USDC 크로스체인 유통망 확대로 네트워크 채택 증가. Circle 핵심 인프라 가치 강화.
-- 감성: positive
+**3. Cathie Wood bets on 'disrupter' stock with bullish analyst call**
+- 출처: TheStreet · 02:15 KST
+- 요약: 캐시 우드가 기술 파괴의 "핵심 수혜주"로 크립토 종목(서클)을 지목하며 강세 콜에 더블다운.
+- 투자 시사점: 유력 성장주 투자자의 긍정 시그널은 심리 지지. 다만 은행권 경쟁 리스크와 병행 판단 필요.
+- 감성: **positive**
+- 🔗 https://www.thestreet.com/crypto/markets/cathie-wood-bets-on-disrupter-stock-with-bullish-analyst-call
 
 ---
 
 ## 섹션 2. 오늘의 Hype 뉴스 TOP 5
 
-**1. Nvidia Posts Record $96.2B Revenue, Shares Jump on $108B Outlook / 70% Growth Forecast**
-- 출처: CNBC / 발행: 08:40~10:02 KST
-- 요약: NVIDIA가 fiscal Q2에 전년 대비 2배 넘는 사상 최대 매출 $96.2B을 기록하고, 다음 분기 $108B 가이던스를 제시하며 시장 예상을 상회. 젠슨 황은 "수요는 70% 성장 전망을 훨씬 웃돈다"며 자신감 표명.
-- 왜 지금 hype인지: AI 전체 밸류체인의 방향타 역할을 하는 최대 이벤트로, GPU 수요 지속성에 대한 시장 불안을 정면 반박.
-- 감성: positive
+**1. Nvidia jumps 7% after blockbuster earnings boost AI confidence**
+- 출처: CNBC · 17:43 KST
+- 요약: NVIDIA가 서프라이즈 Q2 실적과 강력한 매출 가이던스를 내놓으며 주가 7% 급등. AI 수요 지속에 대한 시장 우려를 진정시킴.
+  분기 매출 $96.2B, 2028년까지 70% 성장 가이던스로 AI 버블 논쟁을 정면 돌파.
+- 왜 지금 hype: AI 사이클 전체의 방향타 이벤트 — NVDA 실적이 반도체·네오클라우드·빅테크 전반의 투심을 좌우.
+- 감성: **positive**
+- 🔗 https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html
 
-**2. Anthropic and Nscale strike $45 billion cloud deal**
-- 출처: CNBC / 발행: 03:07 KST
-- 요약: Anthropic이 Nscale과 $45B 규모 클라우드 계약을 체결, 웨스트버지니아 데이터센터에서 약 460MW 컴퓨팅 용량을 임대. AI 컴퓨트 확보 경쟁 지속.
-- 왜 지금 hype인지: 초대형 AI 컴퓨트 계약이 데이터센터·전력·인프라 테마 전반에 낙수 수혜 기대를 자극.
-- 감성: positive
+**2. Nvidia agrees to buy Hugging Face for $12.9 billion, report says**
+- 출처: CNBC · 16:29 KST
+- 요약: NVIDIA가 오픈소스 AI 허브 Hugging Face를 129억 달러에 인수 합의 보도. AI 생태계로의 수직 확장 가속.
+  소프트웨어·개발자 커뮤니티 장악으로 CUDA 해자를 더욱 강화하려는 전략적 베팅.
+- 왜 지금 hype: 반도체 기업의 최대급 AI 소프트웨어 M&A — 오픈소스 AI 플랫폼 지형을 뒤흔들 딜.
+- 감성: **positive**
+- 🔗 https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html
 
-**3. Amazon just tripled its order of Nvidia chips over 'surging demand'**
-- 출처: TechCrunch / 발행: 08:47 KST
-- 요약: Amazon이 향후 2년간 NVIDIA GPU 200만 개를 추가 주문, 파트너십을 클라우드 인프라 전반으로 확장. 하이퍼스케일러 수요 재확인.
-- 왜 지금 hype인지: NVIDIA 실적과 맞물려 하이퍼스케일러 CapEx 확대를 증명, AI 인프라 사이클 지속 신호.
-- 감성: positive
+**3. Salesforce stock jumps 12% on AI growth and Anthropic investment gain**
+- 출처: CNBC · 10:01 KST
+- 요약: 세일즈포스가 AI 성장과 Anthropic 지분 평가이익에 힘입어 호실적, 주가 12% 급등. Benioff는 'SaaSpocalypse' 우려를 일축.
+  Anthropic과 파트너십 확대(Claudeforce) 발표로 엔터프라이즈 AI 수익화 스토리 강화.
+- 왜 지금 hype: "SaaS는 끝났다"는 공포를 실적으로 반박 — 엔터프라이즈 SW의 AI 전환 성공 사례로 부각.
+- 감성: **positive**
+- 🔗 https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html
 
-**4. OpenAI's Jalapeño AI chip brings new 'threat' to Nvidia margins**
-- 출처: CNBC / 발행: 04:15 KST
-- 요약: OpenAI의 Jalapeño 칩이 주요 추론 효율 테스트에서 NVIDIA Blackwell 시스템을 앞섰으며, 빅테크의 커스텀 실리콘 채택 확산으로 NVIDIA 마진 압박 우려 대두.
-- 왜 지금 hype인지: NVIDIA 독점 구도에 대한 커스텀 칩 위협 서사가 반도체 투자 심리의 핵심 논쟁으로 부상.
-- 감성: neutral
+**4. Anthropic and Nscale strike $45 billion cloud deal, sources say**
+- 출처: CNBC · 03:07 KST
+- 요약: Anthropic이 Nscale의 웨스트버지니아 데이터센터에서 약 460MW 컴퓨트 용량을 임대하는 450억 달러 규모 클라우드 딜 체결.
+  Anthropic의 폭발적 컴퓨트 수요 확대 행진을 보여주는 최신 사례.
+- 왜 지금 hype: 초대형 AI 컴퓨트 계약 — 데이터센터·전력·인프라 테마(IREN 등 네오클라우드 포함)에 직접적 낙수 효과.
+- 감성: **positive**
+- 🔗 https://www.cnbc.com/2026/08/26/anthropic-and-nscale-strike-45-billion-cloud-deal-sources-say.html
 
-**5. Salesforce stock jumps 12% on AI growth and Anthropic investment gain**
-- 출처: CNBC / 발행: 05:50~10:01 KST
-- 요약: Salesforce가 AI 성장과 Anthropic 지분 평가이익에 힘입어 실적 호조, 주가 12% 급등. Benioff는 'SaaSpocalypse' 우려를 일축하며 Anthropic 파트너십 확대 발표.
-- 왜 지금 hype인지: AI가 SaaS를 잠식한다는 공포를 실적으로 반박하며 소프트웨어 섹터 반등 모멘텀 제공.
-- 감성: positive
+**5. Amazon just tripled its order of Nvidia chips over 'surging demand'**
+- 출처: TechCrunch · 08:47 KST
+- 요약: 아마존이 향후 2년간 데이터센터에 NVIDIA GPU 200만 개를 추가 발주, 급증하는 수요에 대응.
+  단순 칩 구매를 넘어 파트너십을 확장하는 움직임.
+- 왜 지금 hype: 하이퍼스케일러 CAPEX 재가속 신호 — NVDA 실적과 맞물려 AI 인프라 수요 지속을 재확인.
+- 감성: **positive**
+- 🔗 https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/
 
 ---
 
-*본 브리핑은 RSS 피드 기반 자동 수집·요약으로, 투자 판단의 참고 자료입니다. 최종 투자 결정과 책임은 투자자 본인에게 있습니다.*
+*자동 생성 브리핑 · RSS 기반 · 투자 판단은 본인 책임*
